@@ -3,6 +3,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#KODIPROP:inputstream.adaptive.stream_headers=x-tcdn-token=74eedaf75ae84777c2b7e1a237bcdec3_1790459347_1790416162
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://mx7016-src76e0.cdne.orangetv.orange.es/session/5d604c5a-b98a-11f1-aa75-9418827aabde$h1.0$orange/cd7guw/cmaf/r12_movistarlaligatm/dash_low.mpd?token=6262ac0b50dd0e085d9fe9ce291804b2_1790457134_1790413949&cid=4268431&did=195425092
+http://mx7016-src76e0.cdne.orangetv.orange.es/session/84408128-b98f-11f1-a5a3-20677cd3fdca$h1.0$orange/cd7guw/cmaf/r12_movistarlaligatm/dash_low.mpd?token=74eedaf75ae84777c2b7e1a237bcdec3_1790459347_1790416162&cid=4268431&did=195425092
 
