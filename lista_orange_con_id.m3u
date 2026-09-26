@@ -3,39 +3,39 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-#EXTVLCOPT:http-header=x-tcdn-token=38035e625af1ab9521e74d2359acccb8_1790472757_1790429572
+#EXTVLCOPT:http-header=x-tcdn-token=6c21b79f91a186af2a611f31c6c4b8fa_1790472959_1790429774
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://mx7016-src76e0.cdne.orangetv.orange.es/session/bd6fd0ec-b9ae-11f1-a2f8-20677cd30eca$h1.0$orange/cd7guw/cmaf/r12_movistarlaligatm/dash_low.mpd?token=38035e625af1ab9521e74d2359acccb8_1790472757_1790429572&cid=4268431&did=195425092
+http://mx7016-src76e0.cdne.orangetv.orange.es/session/35b4bf2c-b9af-11f1-a98d-20677cd3fdca$h1.0$orange/cd7guw/cmaf/r12_movistarlaligatm/dash_low.mpd?token=6c21b79f91a186af2a611f31c6c4b8fa_1790472959_1790429774&cid=4268431&did=195425092
 
 #EXTINF:-1 tvg-id="11026" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-#EXTVLCOPT:http-header=x-tcdn-token=e183e5e1a036ace29cdb6490fba079bf_1790472761_1790429576
+#EXTVLCOPT:http-header=x-tcdn-token=82cc11a3d78b57568149f720fad9d09f_1790472990_1790429805
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://mx7016-src78e0.cdne.orangetv.orange.es/session/bf7ccff2-b9ae-11f1-ba0b-9418827aabde$h1.0$orange/cd7guw/cmaf/r12_movistarlaliga2/dash_low.mpd?token=e183e5e1a036ace29cdb6490fba079bf_1790472761_1790429576&cid=4268431&did=195425092
+http://mx7016-src78e0.cdne.orangetv.orange.es/session/47e3611c-b9af-11f1-ac20-20677cd3e6ca$h1.0$orange/cd7guw/cmaf/r12_movistarlaliga2/dash_low.mpd?token=82cc11a3d78b57568149f720fad9d09f_1790472990_1790429805&cid=4268431&did=195425092
 
 #EXTINF:-1 tvg-id="1057" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-#EXTVLCOPT:http-header=x-tcdn-token=6b3749a7af2164d0f00562758af2f337_1790472764_1790429579
+#EXTVLCOPT:http-header=x-tcdn-token=ac415e7d64e16d6eabd8d2e0ea5cca69_1790473020_1790429835
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://mx7016-src77e0.cdne.orangetv.orange.es/session/c18c89f4-b9ae-11f1-8285-20677cd29f5e$h1.0$orange/cd7guw/cmaf/r12_movistarlaliga3/dash_low.mpd?token=6b3749a7af2164d0f00562758af2f337_1790472764_1790429579&cid=4268431&did=195425092
+http://mx7016-src77e0.cdne.orangetv.orange.es/session/5a2175bc-b9af-11f1-bd06-20677cd29f5e$h1.0$orange/cd7guw/cmaf/r12_movistarlaliga3/dash_low.mpd?token=ac415e7d64e16d6eabd8d2e0ea5cca69_1790473020_1790429835&cid=4268431&did=195425092
 
 #EXTINF:-1 tvg-id="11077" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="DAZN LaLiga" tvg-logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_1/contain/center/center/none/80/85/70/png/image?brand=dazn",DAZN LaLiga
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
-#EXTVLCOPT:http-header=x-tcdn-token=f36734c5497c7d142d8f395c2131b145_1790472768_1790429583
+#EXTVLCOPT:http-header=x-tcdn-token=e1125a148bc2a4f1c453e29cf2525299_1790473051_1790429866
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://mx7016-src77e0.cdne.orangetv.orange.es/session/c3938a40-b9ae-11f1-82f7-20677cd30e3e$h1.0$orange/cd7guw/cmaf/r12_daznlaligatm/dash_low.mpd?token=f36734c5497c7d142d8f395c2131b145_1790472768_1790429583&cid=4268431&did=195425092
+http://mx7016-src77e0.cdne.orangetv.orange.es/session/6c4f4cc8-b9af-11f1-82f7-20677cd30e3e$h1.0$orange/cd7guw/cmaf/r12_daznlaligatm/dash_low.mpd?token=e1125a148bc2a4f1c453e29cf2525299_1790473051_1790429866&cid=4268431&did=195425092
 
 #EXTINF:-1 tvg-id="11080" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="DAZN LaLiga 2" tvg-logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_2/contain/center/center/none/80/85/70/png/image?brand=dazn",DAZN LaLiga 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
-#EXTVLCOPT:http-header=x-tcdn-token=854e1e82e9fd5be5cce6c814dc2f14fb_1790472771_1790429586
+#EXTVLCOPT:http-header=x-tcdn-token=fd254cbd7077dd313bfba57df693187c_1790473081_1790429896
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-http://mx7016-src79e0.cdne.orangetv.orange.es/session/c5999e38-b9ae-11f1-82f7-20677cd30e3e$h1.0$orange/cd7guw/cmaf/r12_daznlaliga2tm/dash_low.mpd?token=854e1e82e9fd5be5cce6c814dc2f14fb_1790472771_1790429586&cid=4268431&did=195425092
+http://mx7016-src79e0.cdne.orangetv.orange.es/session/7e8e358e-b9af-11f1-bd06-20677cd29f5e$h1.0$orange/cd7guw/cmaf/r12_daznlaliga2tm/dash_low.mpd?token=fd254cbd7077dd313bfba57df693187c_1790473081_1790429896&cid=4268431&did=195425092
 
