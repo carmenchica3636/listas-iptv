@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NBATV" tvg-logo="https://i.ibb.co/82QvHTH/ar-nba-tv.png" group-title="🌎 MIX SPORTS",NBA TV 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/vgkshf22lc/out/v1/9dbd7e519cf34fe2a53a85ee85bc407f/cenc.mpd
