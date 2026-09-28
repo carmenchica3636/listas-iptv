@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="11013" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=684f4771df5217b6a4721a0c96d9b80c_1790674145_1790630960
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e0.cdne.orangetv.orange.es/session/a1db0d52-bb83-11f1-9d5e-20677cd3fd86$h1.0$orange/cd7guw/cmaf/r12_movistarlaligatm/dash_medium.mpd?token=684f4771df5217b6a4721a0c96d9b80c_1790674145_1790630960&cid=8201672&did=195659086
+
+#EXTINF:-1 tvg-id="11227" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga HDR" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga HDR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=da900093faf80b87ffb3a90ddcc0b6b7_1790674175_1790630990
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e0.cdne.orangetv.orange.es/session/b3db0872-bb83-11f1-a552-9418827a1296$h1.0$orange/cd7guw/cmaf/r12_movistarlaligahdrtm/dash_medium.mpd?token=da900093faf80b87ffb3a90ddcc0b6b7_1790674175_1790630990&cid=8201672&did=195659086
+
+#EXTINF:-1 tvg-id="1050" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MCAMPEONES",Movistar Campeones 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=548d882aa60f6a01e02d29f9c452c7fa_1790674206_1790631021
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://mx7016-src76e0.cdne.orangetv.orange.es/session/c5f2d634-bb83-11f1-bd02-20677cd3e6ca$h1.0$orange/cd7guw/cmaf/r12_movistarligadecampeones2tm/dash_medium.mpd?token=548d882aa60f6a01e02d29f9c452c7fa_1790674206_1790631021&cid=8201672&did=195659086
+
+#EXTINF:-1 tvg-id="1051" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar Liga Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MCAMPEONES",Movistar Liga Campeones 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=86c0097bc8947b9888cfdc6c9f1b0ef8_1790674236_1790631051
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e1.cdne.orangetv.orange.es/session/d7f83ff4-bb83-11f1-891a-20677cd3e6ca$h1.0$orange/cd7guw/cmaf/r12_movistarligadecampeones3tm/dash_medium.mpd?token=86c0097bc8947b9888cfdc6c9f1b0ef8_1790674236_1790631051&cid=8201672&did=195659086
+
+#EXTINF:-1 tvg-id="1052" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar Liga Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MCAMPEONES",Movistar Liga Campeones 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=26877b29d002cf965740dc77db061f9c_1790674266_1790631081
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e1.cdne.orangetv.orange.es/session/ea069eac-bb83-11f1-8689-20677cd29f5e$h1.0$orange/cd7guw/cmaf/r12_movistarligadecampeones4/dash_medium.mpd?token=26877b29d002cf965740dc77db061f9c_1790674266_1790631081&cid=8201672&did=195659086
+
