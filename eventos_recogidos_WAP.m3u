@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6hhmiowjj4dl3g5qwkm2f4fen" tvg-name="Braga - Sporting CP" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6hhmiowjj4dl3g5qwkm2f4fen_image-header_pEs_1790306373000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Braga - Sporting CP
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e8343afd7315f53a569e21f74233629:0dc303cc55ce11c6ba8500d3bd4a4d9a
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvdTIyZ2llYTg5NDUxNWE5dmU2MTVoc2N4Il0sImV4YyI6W10sImhlYWRlcnMiOlsidXNlci1hZ2VudCJdLCJjbyI6dHJ1ZSwiaXAiOmZhbHNlLCJhc24iOlsiMTMzMzUiXSwic3NpZCI6IjZjNDM0MjYxMmYzMCIsImludHNpZyI6ImI0cDNKTjVoWGRSN1k2Mmx5YTVYUGFsQTBaSUE2TXN2eTlYVnBsSVQ2dVUiLCJpYXQiOjE3OTE1ODE2ODAsImV4cCI6MTc5MTY2ODA4MH0.FyshUaG8tjNiBLzITW6jg_t1J6yx6pxO8JeZMcLeum0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/u22giea894515a9ve615hscx/web/stream.mpd?channel=5065&outlet=dazn-spain&plang=en
 #EXTINF:-1 tvg-id="dv61rh6bke4t594yi5fs66z5y" tvg-name="Jimbee Cartagena Costa Cálida - Noia Portus Apostoli" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dv61rh6bke4t594yi5fs66z5y_image-header_pEs_1789749535000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Jimbee Cartagena Costa Cálida - Noia Portus Apostoli
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3496023a96b5206bc9280cc1b20bd19:89bf52b809726619aaf48ce2f65b057a
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMTc5M243OHlqZHAzeTFkbDdsaDAyeWp4NnoiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU4MTY4MSwiZXhwIjoxNzkxNjY4MDgxfQ.tcq7F6SesFBg3x6wftA00O7C5R3WdJznj4s6M3h1B9Y
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMTc5M243OHlqZHAzeTFkbDdsaDAyeWp4NnoiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU4MjYwMiwiZXhwIjoxNzkxNjY5MDAyfQ.JS7JPyJ0WnpX-jrAVvy7164Ls9POiLoGMonLF2CRVdE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/1793n78yjdp3y1dl7lh02yjx6z/web/stream.mpd?channel=5663&outlet=dazn-spain&plang=en
@@ -19,7 +11,7 @@ https://dca-ac-live.cdn.indazn.com/1793n78yjdp3y1dl7lh02yjx6z/web/stream.mpd?cha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=260732f2da1b542f8f61379599afda49:3b1cdaf850afbbff067655c5848aad2a
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvYnBxYjd2eWsxcWxqMWt1a3ZseWZkY2J5cCJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjEzMzM1Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJiNHAzSk41aFhkUjdZNjJseWE1WFBhbEEwWklBNk1zdnk5WFZwbElUNnVVIiwiaWF0IjoxNzkxNTgxNjgxLCJleHAiOjE3OTE2NjgwODF9.M0sJ38C7VBrqwP8P9wL1uapTJa8Swbd7q-1uWHXwZk0
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvYnBxYjd2eWsxcWxqMWt1a3ZseWZkY2J5cCJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjEzMzM1Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJiNHAzSk41aFhkUjdZNjJseWE1WFBhbEEwWklBNk1zdnk5WFZwbElUNnVVIiwiaWF0IjoxNzkxNTgyNjAyLCJleHAiOjE3OTE2NjkwMDJ9.8ct_cg0A37RiPtsAr_kBL_6faz46HrL6UlF7QjxgHAw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/bpqb7vyk1qlj1kukvlyfdcbyp/web/stream.mpd?channel=5668&outlet=dazn-spain&plang=en
@@ -143,3 +135,11 @@ https://dca-ac-live.cdn.indazn.com/1u9u8huaogyl914dt3q4f9dzj2/web/stream.mpd?cha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/1g0sy0fmsfjz5133uz6qlujlcd/web/stream.mpd?channel=1948&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="6hhmiowjj4dl3g5qwkm2f4fen" tvg-name="Braga - Sporting CP" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6hhmiowjj4dl3g5qwkm2f4fen_image-header_pEs_1790306373000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Braga - Sporting CP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e8343afd7315f53a569e21f74233629:0dc303cc55ce11c6ba8500d3bd4a4d9a
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvdTIyZ2llYTg5NDUxNWE5dmU2MTVoc2N4Il0sImV4YyI6W10sImhlYWRlcnMiOlsidXNlci1hZ2VudCJdLCJjbyI6dHJ1ZSwiaXAiOmZhbHNlLCJhc24iOlsiMTMzMzUiXSwic3NpZCI6IjZjNDM0MjYxMmYzMCIsImludHNpZyI6ImI0cDNKTjVoWGRSN1k2Mmx5YTVYUGFsQTBaSUE2TXN2eTlYVnBsSVQ2dVUiLCJpYXQiOjE3OTE1ODE2ODAsImV4cCI6MTc5MTY2ODA4MH0.FyshUaG8tjNiBLzITW6jg_t1J6yx6pxO8JeZMcLeum0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/u22giea894515a9ve615hscx/web/stream.mpd?channel=5065&outlet=dazn-spain&plang=en
