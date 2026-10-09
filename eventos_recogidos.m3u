@@ -1,9 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="czinro8vasy6kfjjx9ptfwmvx" tvg-name="Braga - Sporting CP" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/czinro8vasy6kfjjx9ptfwmvx_image-header_pEs_1790306373000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Braga - Sporting CP
+#EXTINF:-1 tvg-id="72ls30sm16jhlfkiukrbgagg8" tvg-name="Germany - Spain" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/72ls30sm16jhlfkiukrbgagg8_image-header_pEs_1790783372000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Germany - Spain
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=305f3652efd551808a4d4f61dffc58e5:b4f8f4dd819bd3a4b5cb62ab4e021e18
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXVlMmd3cmdjdWwzczE3dnJsaHpnZW04OXMiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTU3MzI0OSwiZXhwIjoxNzkxNjU5NjQ5fQ.Kj2m8NyhoiP1qGxiuaBrDVk3pJvvkM18jCuKH4Wgsvc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1ue2gwrgcul3s17vrlhzgem89s/web/stream.mpd?channel=7011&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="5vyzgutb0df8loh0fptrhezvi" tvg-name="Illes Balears Palma Futsal - O Parrulo Ferrol" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5vyzgutb0df8loh0fptrhezvi_image-header_pEs_1789749523000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Illes Balears Palma Futsal - O Parrulo Ferrol
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5109278c3a20561a9330ac474f292a1f:e1505e0cb2e8abe53a536802b2937bef
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXNtbHZydnMwcTZqejE3aTZrOXY4cGV4bXgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTU3MzI0OSwiZXhwIjoxNzkxNjU5NjQ5fQ.-n1ew9V4M_r1xboKPLBHoBVkc7qEtUb8KcszOJ9qZH0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1smlvrvs0q6jz17i6k9v8pexmx/web/stream.mpd?channel=5662&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="1gopkn34xipdrqvg54ifvfm5b" tvg-name="PSV - Heerenveen" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gopkn34xipdrqvg54ifvfm5b_image-header_pEs_1790167072000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",PSV - Heerenveen
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1d47751e3ba518ca18d61c7111f953f:90f87b2afb94b02537b4abd9bcdae52c
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWxkdjlmOTZmcm9iODFtaW84NXBlcXY0dWYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTU3MzI1MCwiZXhwIjoxNzkxNjU5NjUwfQ.cxl-oOFtnlLXfL42iMBRVnYu5iTDrENE5L8FUECAxjg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1ldv9f96frob81mio85peqv4uf/web/stream.mpd?channel=5069&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="2hli46n7tlx2rzy7zvkj8h5ww" tvg-name="Borussia Dortmund - Werder Bremen" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2hli46n7tlx2rzy7zvkj8h5ww_image-header_pEs_1787120400000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Borussia Dortmund - Werder Bremen
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9647b78858852149002881c283e39e6:b0f038dfcd551b967615c12633a9c66b
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWx2cDh4NHJjcjhraDFvdnEyd3kxYzliOGwiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTU3MzI1MCwiZXhwIjoxNzkxNjU5NjUwfQ.5xU1LF5-q-84GnHHMBpOAALDbHLy2PUJoi-DnfTWz-g
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1lvp8x4rcr8kh1ovq2wy1c9b8l/web/stream.mpd?channel=3940&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="blz8wh03w595zun5wmuqjrxk4" tvg-name="Manchester Basketball - Cheshire Phoenix" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/blz8wh03w595zun5wmuqjrxk4_image-header_pEs_1788425045000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Manchester Basketball - Cheshire Phoenix
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a8e800b29959a6994cd71c32c3131c:2695555f30ad3dc530a8565c3f911157
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXhpOHI0ODYxOHRqZDEybDB6Z3dhc2JpMHAiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTU3MzI1MCwiZXhwIjoxNzkxNjU5NjUwfQ.hw90xlcWBIyBm1315QPL7ylz1iJora2H1N988iG1dKE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1xi8r48618tjd12l0zgwasbi0p/web/stream.mpd?channel=5077&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="37vyyfyea0s1vyqbluhhcucav" tvg-name="Leicester Riders - Bristol Flyers" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/37vyyfyea0s1vyqbluhhcucav_image-header_pEs_1788355392000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Leicester Riders - Bristol Flyers
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c84b039927556fcbaeb7d19f643a3d9:ab61e23dd36d057e05313f091b345957
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvNzN3MXpuOWI1ZmVyMTloaG93dWp6ZjB1eCJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjE1NzA0Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJYdUpGTnluVkprYnU3dTVkRU5jbk81WUVTMW0tdm1RR001SXNlRWpxMml3IiwiaWF0IjoxNzkxNTczMjUxLCJleHAiOjE3OTE2NTk2NTF9.aio7Wkn5TW8zEYwpsxmIMYPZTEYin2EYBHLB0Un0TsI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/73w1zn9b5fer19hhowujzf0ux/web/stream.mpd?channel=5076&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="c38c3yej0jhy4wjwdkj3stjrs" tvg-name="RC Lens - Olympique Lyonnais" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c38c3yej0jhy4wjwdkj3stjrs_image-header_pEs_1785749347000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",RC Lens - Olympique Lyonnais
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=23d3f42947645792ac59850e41b40a80:44d717038f73b5e67477ca91b4ab1c07
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXU5dThodWFvZ3lsOTE0ZHQzcTRmOWR6ajIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTU3MzI1MSwiZXhwIjoxNzkxNjU5NjUxfQ.c2E3DHCJe7_agun-tkjwPL0j0t_NzirNbuN_4N_cXMM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1u9u8huaogyl914dt3q4f9dzj2/web/stream.mpd?channel=2941&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="86d73kh7jrxp8t4y8mqvgx6s4" tvg-name="Málaga CF - RCD Espanyol" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/86d73kh7jrxp8t4y8mqvgx6s4_image-header_pEs_1782981690000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Málaga CF - RCD Espanyol
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=440ecab18a3d5babbb3f7c7546f8f697:485e7963c16f2b5068f5e3e502a451e7
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWcwc3kwZm1zZmp6NTEzM3V6NnFsdWpsY2QiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwid21pZCI6IjdjZDA0YWIxLWQyOTItNTAzMy04YzdlLTIxZTI3NTRkZmFhMSIsIndtaWRmbXQiOiJhc2NpaSIsIndtaWRsZW4iOjUxMiwid21pZHR5cCI6MSwid21vcGlkIjozNiwid21zZWdkIjoxOTIwLCJ3bXRpbXMiOjYwMCwid212ZXIiOjMsIndta2V5dmVyIjozLCJ3bXRtaWR2ZXIiOjQsImludHNpZyI6Ilh1SkZOeW5WSmtidTd1NWRFTmNuTzVZRVMxbS12bVFHTTVJc2VFanEyaXciLCJpYXQiOjE3OTE1NzMyNTIsImV4cCI6MTc5MTY1OTY1Mn0.6WhL1w6ja9WahWY2idkOpD9ztOvL2pM5L_phttqVXvE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1g0sy0fmsfjz5133uz6qlujlcd/web/stream.mpd?channel=1948&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="6hhmiowjj4dl3g5qwkm2f4fen" tvg-name="Braga - Sporting CP" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/6hhmiowjj4dl3g5qwkm2f4fen_image-header_pEs_1790306373000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Braga - Sporting CP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e8343afd7315f53a569e21f74233629:0dc303cc55ce11c6ba8500d3bd4a4d9a
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvdTIyZ2llYTg5NDUxNWE5dmU2MTVoc2N4Il0sImV4YyI6W10sImhlYWRlcnMiOlsidXNlci1hZ2VudCJdLCJjbyI6dHJ1ZSwiaXAiOmZhbHNlLCJhc24iOlsiMTU3MDQiXSwic3NpZCI6IjZjNDM0MjYxMmYzMCIsImludHNpZyI6Ilh1SkZOeW5WSmtidTd1NWRFTmNuTzVZRVMxbS12bVFHTTVJc2VFanEyaXciLCJpYXQiOjE3OTE1NzMwMDMsImV4cCI6MTc5MTY1OTQwM30.O-qMIyAEPsLxsDiaAsyJ0B5Dfw8dGVNBL0SgxQuNGw4
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvdTIyZ2llYTg5NDUxNWE5dmU2MTVoc2N4Il0sImV4YyI6W10sImhlYWRlcnMiOlsidXNlci1hZ2VudCJdLCJjbyI6dHJ1ZSwiaXAiOmZhbHNlLCJhc24iOlsiMTU3MDQiXSwic3NpZCI6IjZjNDM0MjYxMmYzMCIsImludHNpZyI6Ilh1SkZOeW5WSmtidTd1NWRFTmNuTzVZRVMxbS12bVFHTTVJc2VFanEyaXciLCJpYXQiOjE3OTE1NzMyNTIsImV4cCI6MTc5MTY1OTY1Mn0.gk94BYZ7H9MLVIwiMUMuuaGJ-PKH7yh3jSIaNkKvSDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/u22giea894515a9ve615hscx/web/stream.mpd?channel=5065&outlet=dazn-spain&plang=en
@@ -55,30 +119,6 @@ https://dca-ac-live.cdn.indazn.com/14rotigkm6fq313pgvo21zzm6q/web/stream.mpd?cha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-fs-live-dazn-cdn.dazn.com/1egeq7ekp7t9h17q5uq6mserkx/web/stream.mpd?channel=3530&outlet=dazn-spain&plang=en
-#EXTINF:-1 tvg-id="72ls30sm16jhlfkiukrbgagg8" tvg-name="Germany - Spain" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/72ls30sm16jhlfkiukrbgagg8_image-header_pEs_1790783372000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Germany - Spain
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=305f3652efd551808a4d4f61dffc58e5:b4f8f4dd819bd3a4b5cb62ab4e021e18
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXVlMmd3cmdjdWwzczE3dnJsaHpnZW04OXMiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU3MjMxOCwiZXhwIjoxNzkxNjU4NzE4fQ.gFfZ7oIhV3DCDEHe6uvLgU6W6cNv9IJdI3-G0h0N6YU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1ue2gwrgcul3s17vrlhzgem89s/web/stream.mpd?channel=7011&outlet=dazn-spain&plang=en
-#EXTINF:-1 tvg-id="5vyzgutb0df8loh0fptrhezvi" tvg-name="Illes Balears Palma Futsal - O Parrulo Ferrol" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/5vyzgutb0df8loh0fptrhezvi_image-header_pEs_1789749523000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Illes Balears Palma Futsal - O Parrulo Ferrol
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5109278c3a20561a9330ac474f292a1f:e1505e0cb2e8abe53a536802b2937bef
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXNtbHZydnMwcTZqejE3aTZrOXY4cGV4bXgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU3MjMxOCwiZXhwIjoxNzkxNjU4NzE4fQ.8HfIQpYZk7KMMH84w7Q2E1-10AeRmzRLjb0Rsa37Afk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1smlvrvs0q6jz17i6k9v8pexmx/web/stream.mpd?channel=5662&outlet=dazn-spain&plang=en
-#EXTINF:-1 tvg-id="1gopkn34xipdrqvg54ifvfm5b" tvg-name="PSV - Heerenveen" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gopkn34xipdrqvg54ifvfm5b_image-header_pEs_1790167072000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",PSV - Heerenveen
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1d47751e3ba518ca18d61c7111f953f:90f87b2afb94b02537b4abd9bcdae52c
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWxkdjlmOTZmcm9iODFtaW84NXBlcXY0dWYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU3MjMxOSwiZXhwIjoxNzkxNjU4NzE5fQ.F9FQlqIfZiEz0Xri7YpzsQXmQI06MqcS3nbNMkSPVYM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1ldv9f96frob81mio85peqv4uf/web/stream.mpd?channel=5069&outlet=dazn-spain&plang=en
 #EXTINF:-1 tvg-id="1frrdgwg54odq1t17178bxjqi2" tvg-name="Schofield vs. Bahdi: Weigh-In" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1frrdgwg54odq1t17178bxjqi2_image-header_pEs_1790761690000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Schofield vs. Bahdi: Weigh-In
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -87,43 +127,3 @@ https://dca-ac-live.cdn.indazn.com/1ldv9f96frob81mio85peqv4uf/web/stream.mpd?cha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/1198j1n4d37d114jay945kze4x/web/stream.mpd?channel=3231&outlet=dazn-spain&plang=en
-#EXTINF:-1 tvg-id="2hli46n7tlx2rzy7zvkj8h5ww" tvg-name="Borussia Dortmund - Werder Bremen" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/2hli46n7tlx2rzy7zvkj8h5ww_image-header_pEs_1787120400000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Borussia Dortmund - Werder Bremen
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9647b78858852149002881c283e39e6:b0f038dfcd551b967615c12633a9c66b
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWx2cDh4NHJjcjhraDFvdnEyd3kxYzliOGwiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU3MjMyMCwiZXhwIjoxNzkxNjU4NzIwfQ.W39y6gl8UkR0xzREZL6azGIKd9hmNfqCSTt-ePb8wlk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1lvp8x4rcr8kh1ovq2wy1c9b8l/web/stream.mpd?channel=3940&outlet=dazn-spain&plang=en
-#EXTINF:-1 tvg-id="blz8wh03w595zun5wmuqjrxk4" tvg-name="Manchester Basketball - Cheshire Phoenix" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/blz8wh03w595zun5wmuqjrxk4_image-header_pEs_1788425045000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Manchester Basketball - Cheshire Phoenix
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=12a8e800b29959a6994cd71c32c3131c:2695555f30ad3dc530a8565c3f911157
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXhpOHI0ODYxOHRqZDEybDB6Z3dhc2JpMHAiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU3MjMyMSwiZXhwIjoxNzkxNjU4NzIxfQ.XcsN-qwOtd8x8cPIC7wt0-oyN-ysUy1sG2daWkExZEU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1xi8r48618tjd12l0zgwasbi0p/web/stream.mpd?channel=5077&outlet=dazn-spain&plang=en
-#EXTINF:-1 tvg-id="37vyyfyea0s1vyqbluhhcucav" tvg-name="Leicester Riders - Bristol Flyers" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/37vyyfyea0s1vyqbluhhcucav_image-header_pEs_1788355392000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Leicester Riders - Bristol Flyers
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c84b039927556fcbaeb7d19f643a3d9:ab61e23dd36d057e05313f091b345957
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvNzN3MXpuOWI1ZmVyMTloaG93dWp6ZjB1eCJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjEzMzM1Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJiNHAzSk41aFhkUjdZNjJseWE1WFBhbEEwWklBNk1zdnk5WFZwbElUNnVVIiwiaWF0IjoxNzkxNTcyMzIxLCJleHAiOjE3OTE2NTg3MjF9.1nDx5_2XjhR6_2unFZDEvPRN0rNgPIK9CfKUx3rBV04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/73w1zn9b5fer19hhowujzf0ux/web/stream.mpd?channel=5076&outlet=dazn-spain&plang=en
-#EXTINF:-1 tvg-id="c38c3yej0jhy4wjwdkj3stjrs" tvg-name="RC Lens - Olympique Lyonnais" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/c38c3yej0jhy4wjwdkj3stjrs_image-header_pEs_1785749347000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",RC Lens - Olympique Lyonnais
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=23d3f42947645792ac59850e41b40a80:44d717038f73b5e67477ca91b4ab1c07
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXU5dThodWFvZ3lsOTE0ZHQzcTRmOWR6ajIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU3MjMyMiwiZXhwIjoxNzkxNjU4NzIyfQ.dR-4FIo89Bq6vB6DDuk-1Hbtm7YLpPKTRH1B2L41lQ0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1u9u8huaogyl914dt3q4f9dzj2/web/stream.mpd?channel=2941&outlet=dazn-spain&plang=en
-#EXTINF:-1 tvg-id="86d73kh7jrxp8t4y8mqvgx6s4" tvg-name="Málaga CF - RCD Espanyol" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/86d73kh7jrxp8t4y8mqvgx6s4_image-header_pEs_1782981690000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Málaga CF - RCD Espanyol
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=440ecab18a3d5babbb3f7c7546f8f697:485e7963c16f2b5068f5e3e502a451e7
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWcwc3kwZm1zZmp6NTEzM3V6NnFsdWpsY2QiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwid21pZCI6IjdjZDA0YWIxLWQyOTItNTAzMy04YzdlLTIxZTI3NTRkZmFhMSIsIndtaWRmbXQiOiJhc2NpaSIsIndtaWRsZW4iOjUxMiwid21pZHR5cCI6MSwid21vcGlkIjozNiwid21zZWdkIjoxOTIwLCJ3bXRpbXMiOjYwMCwid212ZXIiOjMsIndta2V5dmVyIjozLCJ3bXRtaWR2ZXIiOjQsImludHNpZyI6ImI0cDNKTjVoWGRSN1k2Mmx5YTVYUGFsQTBaSUE2TXN2eTlYVnBsSVQ2dVUiLCJpYXQiOjE3OTE1NzIzMjMsImV4cCI6MTc5MTY1ODcyM30.Bj-fpvt1ZdW5rUamM6tyzLdNaT4MwiygCVUat0Z6B1E
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1g0sy0fmsfjz5133uz6qlujlcd/web/stream.mpd?channel=1948&outlet=dazn-spain&plang=en
