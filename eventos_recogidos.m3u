@@ -1,17 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dv61rh6bke4t594yi5fs66z5y" tvg-name="Jimbee Cartagena Costa Cálida - Noia Portus Apostoli" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dv61rh6bke4t594yi5fs66z5y_image-header_pEs_1789749535000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Jimbee Cartagena Costa Cálida - Noia Portus Apostoli
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3496023a96b5206bc9280cc1b20bd19:89bf52b809726619aaf48ce2f65b057a
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMTc5M243OHlqZHAzeTFkbDdsaDAyeWp4NnoiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTU4MzUxNSwiZXhwIjoxNzkxNjY5OTE1fQ.VNZNwnXaziCvR3Dy93h0gAEY5HfeDdgReXS6xOSo9DI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1793n78yjdp3y1dl7lh02yjx6z/web/stream.mpd?channel=5663&outlet=dazn-spain&plang=en
 #EXTINF:-1 tvg-id="8uc7tqj37j58178q34qmvd6om" tvg-name="MLTT - Week 3: Texas Smash vs. Florida Crocs" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/8uc7tqj37j58178q34qmvd6om_image-header_pEs_1790170706000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Eventos",MLTT - Week 3: Texas Smash vs. Florida Crocs
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=260732f2da1b542f8f61379599afda49:3b1cdaf850afbbff067655c5848aad2a
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvYnBxYjd2eWsxcWxqMWt1a3ZseWZkY2J5cCJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjE1NzA0Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJYdUpGTnluVkprYnU3dTVkRU5jbk81WUVTMW0tdm1RR001SXNlRWpxMml3IiwiaWF0IjoxNzkxNTgzNTE2LCJleHAiOjE3OTE2Njk5MTZ9.4lWK5zoy3KkL68SqaUeB2oXKPDJTHuX45z6xzGGH_yc
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvYnBxYjd2eWsxcWxqMWt1a3ZseWZkY2J5cCJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjE1NzA0Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJYdUpGTnluVkprYnU3dTVkRU5jbk81WUVTMW0tdm1RR001SXNlRWpxMml3IiwiaWF0IjoxNzkxNTg0NDM1LCJleHAiOjE3OTE2NzA4MzV9.Ro1GD1sso-oQYOzeQ9bNUjdwe37qyZpFl2fny1OkO7w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/bpqb7vyk1qlj1kukvlyfdcbyp/web/stream.mpd?channel=5668&outlet=dazn-spain&plang=en
@@ -143,3 +135,11 @@ https://dca-ac-live.cdn.indazn.com/1g0sy0fmsfjz5133uz6qlujlcd/web/stream.mpd?cha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/u22giea894515a9ve615hscx/web/stream.mpd?channel=5065&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="dv61rh6bke4t594yi5fs66z5y" tvg-name="Jimbee Cartagena Costa Cálida - Noia Portus Apostoli" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/dv61rh6bke4t594yi5fs66z5y_image-header_pEs_1789749535000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Jimbee Cartagena Costa Cálida - Noia Portus Apostoli
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3496023a96b5206bc9280cc1b20bd19:89bf52b809726619aaf48ce2f65b057a
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMTc5M243OHlqZHAzeTFkbDdsaDAyeWp4NnoiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU4MzUyMiwiZXhwIjoxNzkxNjY5OTIyfQ.wmWszAnga-83beSBeB1IoS1M2Txst4uCQ03JhSvANGw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1793n78yjdp3y1dl7lh02yjx6z/web/stream.mpd?channel=5663&outlet=dazn-spain&plang=en
