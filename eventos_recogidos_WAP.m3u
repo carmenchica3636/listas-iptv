@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4afa8fccca1355ddbf227429378653ce:38a348540c2d08503ffb91da247da85f
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMndzNXd1NWo3emd4MWZnaGVsdzYyZGd2ZyJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjEzMzM1Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJiNHAzSk41aFhkUjdZNjJseWE1WFBhbEEwWklBNk1zdnk5WFZwbElUNnVVIiwiaWF0IjoxNzkxNTY3MzIxLCJleHAiOjE3OTE2NTM3MjF9.7O1863sOmDcCYXkTwtJOCijb9x2NntWSdA4TVNfabLs
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMndzNXd1NWo3emd4MWZnaGVsdzYyZGd2ZyJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjEzMzM1Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJiNHAzSk41aFhkUjdZNjJseWE1WFBhbEEwWklBNk1zdnk5WFZwbElUNnVVIiwiaWF0IjoxNzkxNTY4MjQ2LCJleHAiOjE3OTE2NTQ2NDZ9.K8v8YdA1QVHUcjbV435Z_uxyHsocldTHWmbY6v3yqwk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/2ws5wu5j7zgx1fghelw62dgvg/web/stream.mpd?channel=5065&outlet=dazn-spain&plang=en
@@ -11,7 +11,7 @@ https://dca-ac-live.cdn.indazn.com/2ws5wu5j7zgx1fghelw62dgvg/web/stream.mpd?chan
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=305f3652efd551808a4d4f61dffc58e5:b4f8f4dd819bd3a4b5cb62ab4e021e18
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXVlMmd3cmdjdWwzczE3dnJsaHpnZW04OXMiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU2NzMyMSwiZXhwIjoxNzkxNjUzNzIxfQ.-66dY5rAx0N9SqIFD5vDssCZSyN3dG1evLymS1Zw6Uo
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXVlMmd3cmdjdWwzczE3dnJsaHpnZW04OXMiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU2ODI0NywiZXhwIjoxNzkxNjU0NjQ3fQ.Pw3Z8a2MB3b09WbvAhyqgnQaX1f93F9OhgI1_uqs2RI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/1ue2gwrgcul3s17vrlhzgem89s/web/stream.mpd?channel=7011&outlet=dazn-spain&plang=en
@@ -19,10 +19,18 @@ https://dca-ac-live.cdn.indazn.com/1ue2gwrgcul3s17vrlhzgem89s/web/stream.mpd?cha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5109278c3a20561a9330ac474f292a1f:e1505e0cb2e8abe53a536802b2937bef
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXNtbHZydnMwcTZqejE3aTZrOXY4cGV4bXgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU2NzMyMiwiZXhwIjoxNzkxNjUzNzIyfQ.-HNcoUt4uY-02TWD7cZxgb1DX-v95p0cmeTKky_Dqlc
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXNtbHZydnMwcTZqejE3aTZrOXY4cGV4bXgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU2ODI0NywiZXhwIjoxNzkxNjU0NjQ3fQ.mfw0jyHULDehyxDq1x5_yv34ICf0_l3W610L1kUfqVI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/1smlvrvs0q6jz17i6k9v8pexmx/web/stream.mpd?channel=5662&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="1gopkn34xipdrqvg54ifvfm5b" tvg-name="PSV - Heerenveen" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1gopkn34xipdrqvg54ifvfm5b_image-header_pEs_1790167072000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",PSV - Heerenveen
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1d47751e3ba518ca18d61c7111f953f:90f87b2afb94b02537b4abd9bcdae52c
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWxkdjlmOTZmcm9iODFtaW84NXBlcXY0dWYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTU2ODI0OCwiZXhwIjoxNzkxNjU0NjQ4fQ.LAv6oXwJVRm6gu8dREs5AVOWwjyRbmnMGbpmN-M9ZLU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1ldv9f96frob81mio85peqv4uf/web/stream.mpd?channel=5069&outlet=dazn-spain&plang=en
 #EXTINF:-1 tvg-id="evnh4lkyfbtpn5bp2ffzwsn6o" tvg-name="Buccaneers @ Cowboys (in Spanish)" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/evnh4lkyfbtpn5bp2ffzwsn6o_image-header_pEs_1789381185000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Buccaneers @ Cowboys (in Spanish)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
