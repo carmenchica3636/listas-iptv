@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" group-title="🛰️    𝗗𝗔𝗭𝗡 𝗟𝗜𝗩𝗘",𝗗𝗔𝗭𝗡 𝗠𝗼𝘁𝗼𝗚𝗣
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rswKhG4jQBSNEJGinRT3PA","k":"Ab-9a9Jpb9AZ5eg5_D2EDw"},{"kty":"oct","kid":"fTRM-aWRQViGQNeFiUfW-Q","k":"EC6e4rQPyU9N28wU_zXxnQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3ODk3MjA2NDAsInN1YiI6IkF6ZzhObU9oZnk0VGJhR0hwc05jeXc9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc4OTcyMDY0MCwibmJmIjoxNzg5NzIwNjQwLCJleHAiOjE3ODk3NjM4NDAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI4OEE5QzVDMjBCREY1RkUxNDc2MkQyOUZDQTZBQjc2NCIsInVpZCI6IjFsOXJCK2owRWRHajZtNEpKeG51Y0pDdTQ2TnV5d0NDWXhEYjltb1NTcVU9IiwiYWNjIjoiS3V0ekwzcVJwblVMWEVFTGU1cUJwcFNSMklPWGgybENUREltdWx2MS96ND0iLCJzIjoiMTQwIiwiY2hwIjp0cnVlfQ.Bjsk-y1_8w2ZVuFdAUTk5mo2yRKS6Pzbd6OGOzXh2lFdk0unjwYH7ptgwLEdzNbPt7r1AhXLh1Cu87o-6Y80Og
+#EXTVLCOPT:http-origin=https://ver.movistar.es
+#EXTVLCOPT:http-referrer=https://ver.movistarplus.es/canales
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+https://1motodazn-dash-movistarplus.emisiondof6.com/manifest.mpd
