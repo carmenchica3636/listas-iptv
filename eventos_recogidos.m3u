@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aqdxydruruhg7tbvi3gchot37" tvg-name="Colombia - Italy" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/aqdxydruruhg7tbvi3gchot37_image-header_pEs_1790783307000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Colombia - Italy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a003e0851ba75d3ba4aae6d3d03a1c50:f49eaf493aac236caad255114ec5d179
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMjU2M2ttMGNoY3JoMTljajA4bmlwbWY0dCJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjE1NzA0Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJYdUpGTnluVkprYnU3dTVkRU5jbk81WUVTMW0tdm1RR001SXNlRWpxMml3IiwiaWF0IjoxNzkxNTQ4MTYwLCJleHAiOjE3OTE2MzQ1NjB9.FbTYvgaxLqZcAHSzP92jU6ING4oI_-Y1ICC0m0MN3iI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/2563km0chcrh19cj08nipmf4t/web/stream.mpd?channel=5073&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="gnf2qdjg3ujo1d8nl6cnwo80q" tvg-name="Cacace vs. Ball: Launch Press Conference" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/gnf2qdjg3ujo1d8nl6cnwo80q_image-header_pEs_1791545175000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Eventos",Cacace vs. Ball: Launch Press Conference
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66a58a7a0fdc5127b37e434c353c7b28:27f63089ba90c048eed9646e63c749d6
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXdtMm13ZGR2bmV0NDE4ZG0xZHViYm1iYnIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTU0ODE2MCwiZXhwIjoxNzkxNjM0NTYwfQ.vPQNAJG_BRfpSoUiof8DOt_gqeclnn0O5wwhCy4smCw
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1wm2mwddvnet418dm1dubbmbbr/web/stream.mpd?channel=3537&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="evnh4lkyfbtpn5bp2ffzwsn6o" tvg-name="Buccaneers @ Cowboys (in Spanish)" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/evnh4lkyfbtpn5bp2ffzwsn6o_image-header_pEs_1789381185000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Buccaneers @ Cowboys (in Spanish)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d053f81ecc5255eda1a6f9733faf42ad:9080c962f6fe3c7d3367e57b429617bd
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvanNvcWZ4a2E4NTFtMTRuMzU2YXE3NDh5cCJdLCJleGMiOltdLCJoZWFkZXJzIjpbInVzZXItYWdlbnQiXSwiY28iOnRydWUsImlwIjpmYWxzZSwiYXNuIjpbIjE1NzA0Il0sInNzaWQiOiI2YzQzNDI2MTJmMzAiLCJpbnRzaWciOiJYdUpGTnluVkprYnU3dTVkRU5jbk81WUVTMW0tdm1RR001SXNlRWpxMml3IiwiaWF0IjoxNzkxNTA1MTc3LCJleHAiOjE3OTE1OTE1Nzd9.ai4lTWy4-8gjf7BDlAqSLH5hTDauLj6yN4Cmg34poug
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/jsoqfxka851m14n356aq748yp/web/stream.mpd?channel=1944&outlet=dazn-spain&plang=en

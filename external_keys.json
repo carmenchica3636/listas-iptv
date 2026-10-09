@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "version": 2,
+    "updated": "2026-10-09T14:14:31",
+    "count_linear": 0,
+    "count_events": 12,
+    "note": "Las claves en STATIC_CLEARKEY_KEYS del código NO se duplican aquí"
+  },
+  "linear": {},
+  "events": {
+    "c1adb1748b73559d9c3641d200f29ad1": {
+      "key": "6dbc885222db0ec39f969ff9f70af4a6",
+      "name": "Eurosport 1",
+      "added": "2026-10-08T19:20:29"
+    },
+    "2318d90a05375833a1168f315dd18b07": {
+      "key": "808154091db21ad932fbbc3bce646c0e",
+      "name": "Eurosport 2",
+      "added": "2026-10-08T19:20:30"
+    },
+    "b920a58b15d65ab9a27316e85c747138": {
+      "key": "ec59ac08a32fcec4f8c075ca221ce22a",
+      "name": "DAZN LALIGA",
+      "added": "2026-10-08T19:20:31"
+    },
+    "a55a7dfd59cb534992d19aa8e66e0ab9": {
+      "key": "c10a80c5e369338af6819bd9bd77399e",
+      "name": "DAZN 1",
+      "added": "2026-10-08T19:20:33"
+    },
+    "77f46b0cecfa5d3e930b6b679899372b": {
+      "key": "30152efcbbfb69f661c8432dcb3da165",
+      "name": "DAZN 2",
+      "added": "2026-10-08T19:20:34"
+    },
+    "5ef20f02c6be59208896a6327608ca85": {
+      "key": "",
+      "name": "Joey Essex vs. Dapper Laughs: Press Conference",
+      "added": "2026-10-08T19:13:34",
+      "status": "placeholder"
+    },
+    "be4d12dbc91d5013b9e41868716a535e": {
+      "key": "dc875acdbcd3ba98b150d57ed2fd86df",
+      "name": "Red Bull Rampage | Women",
+      "added": "2026-10-08T19:20:37"
+    },
+    "cfb5e2b73bef4f3c878f25ab86a7451f": {
+      "key": "",
+      "name": "HAR placeholder",
+      "added": "2026-10-08T19:42:13",
+      "status": "placeholder"
+    },
+    "d053f81ecc5255eda1a6f9733faf42ad": {
+      "key": "9080c962f6fe3c7d3367e57b429617bd",
+      "name": "Buccaneers @ Cowboys (in Spanish)",
+      "added": "2026-10-09T02:19:35"
+    },
+    "519c2db01e1f5c799aa393707ad81be0": {
+      "key": "54c2787dd79eaf6319be62ff4013e169",
+      "name": "Iglesias vs. Zaren",
+      "added": "2026-10-09T02:19:36"
+    },
+    "66a58a7a0fdc5127b37e434c353c7b28": {
+      "key": "27f63089ba90c048eed9646e63c749d6",
+      "name": "Cacace vs. Ball: Launch Press Conference",
+      "added": "2026-10-09T14:14:26"
+    },
+    "a003e0851ba75d3ba4aae6d3d03a1c50": {
+      "key": "f49eaf493aac236caad255114ec5d179",
+      "name": "Colombia - Italy",
+      "added": "2026-10-09T14:14:31"
+    }
+  }
+}

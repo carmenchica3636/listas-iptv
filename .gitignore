@@ -1,0 +1,22 @@
+﻿# Tokens y secretos
+TOKEN GITHUP.txt
+token.txt
+dazn_test_config.json
+
+# Widevine (cualquier WVD)
+*.wvd
+
+# Archivos de debug y backups
+*.bak
+wvd_debug.log
+dazn_capture_*.har
+
+# Caches y logs de eventos
+dazn_events.json
+dazn_events_details_*.json
+events_snapshot.json
+active_events_cache.json
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,27 @@
+{
+  "_meta": {
+    "version": 1,
+    "updated": "2026-10-08T19:13:31",
+    "count": 3
+  },
+  "deprecated": {
+    "EUROSPORT 1": {
+      "old_kid": "5b95fea44d1458128174961a2f43244c",
+      "new_kid": "c1adb1748b73559d9c3641d200f29ad1",
+      "reason": "KID mismatch auto-detectado",
+      "at": "2026-10-08T19:13:26"
+    },
+    "EUROSPORT 2": {
+      "old_kid": "316b4d8767e45e64ad8ba429dca07518",
+      "new_kid": "2318d90a05375833a1168f315dd18b07",
+      "reason": "KID mismatch auto-detectado",
+      "at": "2026-10-08T19:13:28"
+    },
+    "DAZN 1": {
+      "old_kid": "6164a0abaa7c53c6875fa1e7fe0bb463",
+      "new_kid": "a55a7dfd59cb534992d19aa8e66e0ab9",
+      "reason": "KID mismatch auto-detectado",
+      "at": "2026-10-08T19:13:31"
+    }
+  }
+}

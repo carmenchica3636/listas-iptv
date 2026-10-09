@@ -1,0 +1,2954 @@
+[
+  {
+    "Id": "Scheduled:vhoagmz1iovz184xcye0ys1js",
+    "AgeRating": "18_red",
+    "AssetId": "vhoagmz1iovz184xcye0ys1js",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1xstq2zbb3pg512m1s9tkib2y1",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Schofield vs. Bahdi: Press Conference",
+    "Description": "Floyd Schofield Jr. and Lucas Bahdi come face-to-face at the official fight week press conference ahead of their eagerly awaited clash for the vacant WBA lightweight title.",
+    "Start": "2026-10-08T18:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-08-27T08:28:45Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "vhoagmz1iovz184xcye0ys1js_image-header_pEs_1791215830000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "y6tz0q4xr7fd14iw36b67d80j",
+      "Title": "Golden Boy Promotions",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "cdb4091e-edb4-4fed-a282-e1ac4eceea64"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "9a7038fa-0959-4e59-917d-b609d1959368"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "cdb4091e-edb4-4fed-a282-e1ac4eceea64"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "2x2oqzx60orpoeugkd754ga17",
+      "Title": "Boxing",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "3b030c92-b261-4192-afe0-d80855989ad4"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "773d9cad-2274-427b-9eec-403624d9b047"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "69c80f70-e160-4d27-bf3a-b038a7718755"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1qio7sqtnq6rz1xzbbc4xh9tbt",
+      "Title": "Golden Boy Promotions"
+    },
+    "ExpirationDate": "2026-10-08T18:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Golden Boy Promotions",
+    "IsDownloadable": false,
+    "VerifyAge": true,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1xstq2zbb3pg512m1s9tkib2y1",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": true,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-08T18:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-08T19:42:19",
+    "Reason": "Media no disponible (programado)",
+    "LastAttempt": "2026-10-09T14:23:02"
+  },
+  {
+    "Id": "Scheduled:fzo9ea359y901bz8lyt4ys895",
+    "AgeRating": "18_red",
+    "AssetId": "fzo9ea359y901bz8lyt4ys895",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "gbyq4o5s4shc1m2jalihy2p2c",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Inside The Ring is BACK For Season 2! | Oct 8",
+    "Description": "Join the team on Inside The Ring every week for the latest boxing news, exclusive interviews, and in-depth reactions to recent results.",
+    "Start": "2026-10-08T19:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-02-09T09:33:24Z",
+    "Image": {
+      "ImageMimeType": "jpg",
+      "ImageType": "image-header",
+      "Id": "fzo9ea359y901bz8lyt4ys895_image-header_pEs_1791406016000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "aqwixzl7sivogl8dhx5u0gejg",
+      "Title": "Inside The Ring",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "b1af52ba-ccfc-4d04-a59b-724551a83409"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "59303a18-5b3f-4d67-a1e8-27cb33a1387c"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "a64d87d2-4303-4449-b3e6-d567b3283041"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "2x2oqzx60orpoeugkd754ga17",
+      "Title": "Boxing",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "3b030c92-b261-4192-afe0-d80855989ad4"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "773d9cad-2274-427b-9eec-403624d9b047"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "69c80f70-e160-4d27-bf3a-b038a7718755"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1i772c708aawfof9i5ft8bsq6",
+      "Title": "Inside The Ring"
+    },
+    "ExpirationDate": "2026-10-08T19:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Inside The Ring",
+    "IsDownloadable": false,
+    "VerifyAge": true,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:gbyq4o5s4shc1m2jalihy2p2c",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": true,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-08T19:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-08T19:42:19",
+    "Reason": "Media no disponible (programado)",
+    "LastAttempt": "2026-10-09T14:23:02"
+  },
+  {
+    "Id": "Scheduled:9lct3ft6muq7127ll1cypnedn",
+    "AgeRating": "18_red",
+    "AssetId": "9lct3ft6muq7127ll1cypnedn",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "11wmbpiswbnoo1blciyalvtsht",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Cisneros vs. Petersen: Weigh-In",
+    "Description": "Enjoy all of the fight week action ahead of Cisneros vs. Petersen.",
+    "Start": "2026-10-08T23:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-21T13:57:04Z",
+    "Image": {
+      "ImageMimeType": "jpg",
+      "ImageType": "image-header",
+      "Id": "9lct3ft6muq7127ll1cypnedn_image-header_pEs_1791300873000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "1dhqaivexop8a1gw8zumamlwr5",
+      "Title": "BKFC Fight Night: Bethlehem",
+      "Images": []
+    },
+    "Sport": {
+      "Id": "480inac3luslpgfy8cjfxdfkz",
+      "Title": "BKFC",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "beb03a70-cd5c-4d6b-b353-cc4c1c1c41c0"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "3f834b7a-5673-494b-a26d-8ae99e999d2b"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "fa768139-a563-461b-a9ce-9146b58f3625"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "xqv04ge11jro1mwftrle4k2xy",
+      "Title": "BKFC Fight Night: Bethlehem"
+    },
+    "ExpirationDate": "2026-10-08T23:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "BKFC Fight Night: Bethlehem",
+    "IsDownloadable": false,
+    "VerifyAge": true,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:11wmbpiswbnoo1blciyalvtsht",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": true,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-08T23:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-08T19:42:21",
+    "Reason": "Media no disponible (programado)",
+    "LastAttempt": "2026-10-09T14:23:02"
+  },
+  {
+    "Id": "Scheduled:9pzqvzmg7repf7tyhqju6t305",
+    "AgeRating": null,
+    "AssetId": "9pzqvzmg7repf7tyhqju6t305",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "ex3s3kvfdx6slmbw8lfy6do38",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Practice 1 All Classes | Pertamina Grand Prix of Indonesia",
+    "Description": "DAZN ONLY SPAIN - Grand Prix of Indonesia: Practice 1 All Classes",
+    "Start": "2026-10-09T00:55:00Z",
+    "End": null,
+    "DisplayDate": "2026-03-27T06:23:08Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "9pzqvzmg7repf7tyhqju6t305_image-header_pEs_1774592544000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "2e554vbpw7g0ykhl0rziuabxl",
+      "Title": "MotoGP",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "fa859295-bb27-4888-9657-b3b0f8a616ae"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "da3fee47-efc9-473e-aad3-0ec40d533934"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "c369a6ce-6d65-4b0c-b93d-07d21357b889"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "133bpwlb1r12vgyqtkruxq0z7",
+      "Title": "Motorsport",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "67c070d5-ea2e-408b-a6db-9c28c6c664c6"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "474cc51f-8871-4c6b-97a2-5b792ef0d997"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "ddbb32f7-050f-4aa9-8475-aaa01ddc8920"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "38a12gp4g04mn4zbsjd5ofk4l",
+      "Title": "MotoGP"
+    },
+    "ExpirationDate": "2026-10-09T01:05:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "MotoGP",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:ex3s3kvfdx6slmbw8lfy6do38",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_essential",
+      "e_pro_es",
+      "e_motor_es",
+      "ent_bronze_mov_es",
+      "ent_gold_mov_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": true,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T00:55:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T02:19:37",
+    "Reason": "Media no disponible (programado)",
+    "LastAttempt": "2026-10-09T14:23:02"
+  },
+  {
+    "Id": "Scheduled:9de8nn62za7osryxwp33piry1",
+    "AgeRating": null,
+    "AssetId": "9de8nn62za7osryxwp33piry1",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "n4d3elry5w8c18rgq76d7eqnw",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Free Practice 1 | Singapore Airlines Singapore Grand Prix",
+    "Description": "DAZN ONLY SPAIN: Singapore Practice 1",
+    "Start": "2026-10-09T08:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-01-20T15:55:08Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "9de8nn62za7osryxwp33piry1_image-header_pEs_1771493910000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "1m5x4n07f2kqkiczebja5etiq",
+      "Title": "F1",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "c4848de4-e150-4be4-af5c-ade68a5640c6"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "a3b1c5c1-58de-4bbe-8898-8456d10bd87c"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "cd8fb785-593c-47aa-a2fa-6a3a06d6169d"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "133bpwlb1r12vgyqtkruxq0z7",
+      "Title": "Motorsport",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "67c070d5-ea2e-408b-a6db-9c28c6c664c6"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "474cc51f-8871-4c6b-97a2-5b792ef0d997"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "ddbb32f7-050f-4aa9-8475-aaa01ddc8920"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "21sx8burqcbbyr3r06jp79mui",
+      "Title": "F1"
+    },
+    "ExpirationDate": "2026-10-09T08:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "F1",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:n4d3elry5w8c18rgq76d7eqnw",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_essential",
+      "e_pro_es",
+      "e_motor_es",
+      "ent_bronze_mov_es",
+      "ent_gold_mov_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": true,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T08:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T08:54:45",
+    "Reason": "Media no disponible (programado)",
+    "LastAttempt": "2026-10-09T14:23:02"
+  },
+  {
+    "Id": "Scheduled:e1jhoyvzl55nrfdoshh9p2wbw",
+    "AgeRating": null,
+    "AssetId": "e1jhoyvzl55nrfdoshh9p2wbw",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "5nzcjh0jolez561q64uw5v5mx",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "FP1 | Tissot Estoril Round",
+    "Description": "DAZN ONLY - SBK Portugal WSBK FP1",
+    "Start": "2026-10-09T09:15:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-29T15:56:15Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "e1jhoyvzl55nrfdoshh9p2wbw_image-header_pEs_1790697374000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "2e5cuy6tlk29yrv9tv2uqczjd",
+      "Title": "WorldSBK",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "042f78b6-2585-49c5-8788-60354b9e68bb"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "2ebadd8d-016c-4e1f-b8be-c6cb7b47cb1e"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "650b3ae4-83af-43ec-b1fb-89912f128bbc"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "133bpwlb1r12vgyqtkruxq0z7",
+      "Title": "Motorsport",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "67c070d5-ea2e-408b-a6db-9c28c6c664c6"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "474cc51f-8871-4c6b-97a2-5b792ef0d997"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "ddbb32f7-050f-4aa9-8475-aaa01ddc8920"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "bnpceojguewek0gvxvxuaxahh",
+      "Title": "WorldSBK"
+    },
+    "ExpirationDate": "2026-10-09T09:25:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "WorldSBK",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:5nzcjh0jolez561q64uw5v5mx",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T09:15:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T08:54:45",
+    "Reason": "Media no disponible (programado)",
+    "LastAttempt": "2026-10-09T14:23:02"
+  },
+  {
+    "Id": "Scheduled:1x2dzbmfv2v601h4vix127fj8i",
+    "AgeRating": null,
+    "AssetId": "1x2dzbmfv2v601h4vix127fj8i",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1qsf6ejzf2esn10amoxkmmb0li",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Rome - GCL Round 1",
+    "Description": "Watch the best riders and horses go head-to-head in the Global Champions Tour.",
+    "Start": "2026-10-09T12:35:00Z",
+    "End": null,
+    "DisplayDate": "2026-10-07T18:20:32Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "1x2dzbmfv2v601h4vix127fj8i_image-header_pEs_1791449065000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "b6kgczkoaje3cmcfczzjyzbab",
+      "Title": "Longines Global Champions Tour",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "1a5a4d2a-4884-4510-982a-a841ea054274"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "1a5a4d2a-4884-4510-982a-a841ea054274"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "66knmupkttgz1j51y4d5oogtk",
+      "Title": "Equestrian",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "f5a514a9-3541-4f6d-954e-e1432e459b81"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "64aa84af-cd4f-427e-80b2-962010acfb05"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1jzq0geht60031ro1mi9dn8dre",
+      "Title": "Global Champions Tour"
+    },
+    "ExpirationDate": "2026-10-09T12:45:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Global Champions Tour",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1qsf6ejzf2esn10amoxkmmb0li",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T12:35:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:01",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:8i2dzlsrqp1igushp1emtl84q",
+    "AgeRating": null,
+    "AssetId": "8i2dzlsrqp1igushp1emtl84q",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "651li2t12ftvggstk8agul1vz",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "FP2 & Superpole Low Classes | Tissot Estoril Round",
+    "Description": "DAZN ONLY - SBK Portugal WSBK FP2 & Superpole Low Classes",
+    "Start": "2026-10-09T13:55:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-29T16:02:42Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "8i2dzlsrqp1igushp1emtl84q_image-header_pEs_1790697761000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "2e5cuy6tlk29yrv9tv2uqczjd",
+      "Title": "WorldSBK",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "042f78b6-2585-49c5-8788-60354b9e68bb"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "2ebadd8d-016c-4e1f-b8be-c6cb7b47cb1e"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "650b3ae4-83af-43ec-b1fb-89912f128bbc"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "133bpwlb1r12vgyqtkruxq0z7",
+      "Title": "Motorsport",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "67c070d5-ea2e-408b-a6db-9c28c6c664c6"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "474cc51f-8871-4c6b-97a2-5b792ef0d997"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "ddbb32f7-050f-4aa9-8475-aaa01ddc8920"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "bnpceojguewek0gvxvxuaxahh",
+      "Title": "WorldSBK"
+    },
+    "ExpirationDate": "2026-10-09T14:05:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "WorldSBK",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:651li2t12ftvggstk8agul1vz",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T13:55:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:02",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:jr8geb6jtx8w1vdzc7ok6rb4z",
+    "AgeRating": null,
+    "AssetId": "jr8geb6jtx8w1vdzc7ok6rb4z",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "dp0kq7hev1111ved5l1a63ls2",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Freestyle Friday #15",
+    "Description": "Watch all the action from the latest round of Freestyle Friday Championship.",
+    "Start": "2026-10-09T14:45:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-25T10:24:51Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "jr8geb6jtx8w1vdzc7ok6rb4z_image-header_pEs_1781514606000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "1npejhepssux61d0tfqrxrmyuv",
+      "Title": "Freestyle Friday Championship",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "6b095409-3173-4fff-89c4-9806f1e070d6"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "6f5774a4-d28e-4055-9708-a94a3c283244"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "2vdee2dgp7oubyjwoyxp9v4k2",
+      "Title": "Chess",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "17948675-b430-46d3-944e-87d6fd84f28b"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "e9c352a9-a923-4983-b27a-f73fa81badc1"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1ta1773i4r4yc1m29u0157a82m",
+      "Title": "Freestyle Friday Championship"
+    },
+    "ExpirationDate": "2026-10-09T14:55:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Freestyle Friday Championship",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:dp0kq7hev1111ved5l1a63ls2",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T14:45:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:02",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:m9l4emt2nwy216mx9pz3lbcve",
+    "AgeRating": null,
+    "AssetId": "m9l4emt2nwy216mx9pz3lbcve",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "nstipsr0l33t1fcn53fr0ys7r",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Rome - GCL Round 2",
+    "Description": "Watch the best riders and horses go head-to-head in the Global Champions Tour.",
+    "Start": "2026-10-09T15:10:00Z",
+    "End": null,
+    "DisplayDate": "2026-10-07T18:25:09Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "m9l4emt2nwy216mx9pz3lbcve_image-header_pEs_1791450238000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "b6kgczkoaje3cmcfczzjyzbab",
+      "Title": "Longines Global Champions Tour",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "1a5a4d2a-4884-4510-982a-a841ea054274"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "1a5a4d2a-4884-4510-982a-a841ea054274"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "66knmupkttgz1j51y4d5oogtk",
+      "Title": "Equestrian",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "f5a514a9-3541-4f6d-954e-e1432e459b81"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "64aa84af-cd4f-427e-80b2-962010acfb05"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1jzq0geht60031ro1mi9dn8dre",
+      "Title": "Global Champions Tour"
+    },
+    "ExpirationDate": "2026-10-09T15:20:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Global Champions Tour",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:nstipsr0l33t1fcn53fr0ys7r",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T15:10:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:02",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:1qhyzu3uxwd7t1p42ki6w8zo38",
+    "AgeRating": "18_red",
+    "AssetId": "1qhyzu3uxwd7t1p42ki6w8zo38",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "g3qqi2h4dndr190ghskvprtbk",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Joey Essex vs. Dapper Laughs: Weigh-In",
+    "Description": "The fighters hit the scales at the official weigh-in ceremony on DAZN, ahead of a scintillating night of crossover boxing at London's Copper Box Arena.",
+    "Start": "2026-10-09T16:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-29T12:55:31Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "1qhyzu3uxwd7t1p42ki6w8zo38_image-header_pEs_1790771229000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "1f93e4tyif4zg13ij16rjfqsxz",
+      "Title": "Misfits Boxing",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "6f1af8a7-e31b-4429-a1be-dbfa33f49e8c"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "8339036a-3eb1-4d54-8cc2-1f0ab29bb19f"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "6f1af8a7-e31b-4429-a1be-dbfa33f49e8c"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "2x2oqzx60orpoeugkd754ga17",
+      "Title": "Boxing",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "3b030c92-b261-4192-afe0-d80855989ad4"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "773d9cad-2274-427b-9eec-403624d9b047"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "69c80f70-e160-4d27-bf3a-b038a7718755"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "qn93z0bvvj2s1ksfh0s8cqws0",
+      "Title": "Misfits Boxing"
+    },
+    "ExpirationDate": "2026-10-09T16:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Misfits Boxing",
+    "IsDownloadable": false,
+    "VerifyAge": true,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:g3qqi2h4dndr190ghskvprtbk",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": true,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T16:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:02",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:vmpkx0wdfhgknyer1ur8qtcs",
+    "AgeRating": null,
+    "AssetId": "vmpkx0wdfhgknyer1ur8qtcs",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "147fvlhf2alnh1xriwa3j2zm4r",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Germany - Spain",
+    "Description": "Watch Baseball action as Germany takes on Spain",
+    "Start": "2026-10-09T17:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-10-08T10:49:19Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "vmpkx0wdfhgknyer1ur8qtcs_image-header_pEs_1790783372000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "og6yhykx4mg3zy2a41carbua",
+      "Title": "WBSC Premier12",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "4fbb15d0-9937-4932-b3c2-c8b96f1ec870"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "be71b2a7-8840-411b-ad28-fb83fe1f12c5"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "e2n4bo41sw91dx98if05lse25",
+      "Title": "Baseball",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "cc2eabae-4f23-4415-a2e2-8f4474464adc"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "2dcf8dd7-6a2c-4c28-a8b3-824187974a45"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "213523cc-e6c3-44ae-ab2b-56d1e4667cfb"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1ogatokqspjoq14bplgiqo2mph",
+      "Title": "WBSC Premier12 2027"
+    },
+    "ExpirationDate": "2026-10-09T17:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "WBSC Premier12 2027",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:147fvlhf2alnh1xriwa3j2zm4r",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T17:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:02",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:8gzpf991c247uwggy4v8i8ltf",
+    "AgeRating": null,
+    "AssetId": "8gzpf991c247uwggy4v8i8ltf",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1gvynhmhhkemz1j2e5wl1w88jy",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Illes Balears Palma Futsal - O Parrulo Ferrol",
+    "Description": "Watch Futsal action as Illes Balears takes on O Parrulo",
+    "Start": "2026-10-09T17:30:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-18T16:38:40Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "8gzpf991c247uwggy4v8i8ltf_image-header_pEs_1789749523000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "4c69uhi3nmanubhf2s0x8c2z8",
+      "Title": "Liga Prime Futsal",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "6b9e6849-64e2-4f1b-9d11-a6c6999679bf"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "6b9e6849-64e2-4f1b-9d11-a6c6999679bf"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "99708qfta5u5exc2n98cnoblu",
+      "Title": "Futsal",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "b7861347-cc09-47b8-9056-7afb9e42f5dc"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "f4a0f601-ab53-4a67-94e2-27e70d155fa2"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1ji9588xngba71tr62zu3bmqrd",
+      "Title": "Liga Prime Futsal"
+    },
+    "ExpirationDate": "2026-10-09T17:40:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Liga Prime Futsal",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1gvynhmhhkemz1j2e5wl1w88jy",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_nfldom_hyper",
+      "e_bal_us_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T17:30:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:02",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:1523yhbjtmdcu13bmc48426ghu",
+    "AgeRating": "18_red",
+    "AssetId": "1523yhbjtmdcu13bmc48426ghu",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "kbyqvp7wd6u81eklaknezzj91",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Schofield vs. Bahdi: Weigh-In",
+    "Description": "The fighters tip the scales, ahead of an unmissable night of boxing in Chicago. Catch all of the build-up live on DAZN, as we await an explosive lightweight main event between Floyd Schofield and Lucas Bahdi.",
+    "Start": "2026-10-09T18:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-08-27T08:29:01Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "1523yhbjtmdcu13bmc48426ghu_image-header_pEs_1790761690000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "y6tz0q4xr7fd14iw36b67d80j",
+      "Title": "Golden Boy Promotions",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "cdb4091e-edb4-4fed-a282-e1ac4eceea64"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "9a7038fa-0959-4e59-917d-b609d1959368"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "cdb4091e-edb4-4fed-a282-e1ac4eceea64"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "2x2oqzx60orpoeugkd754ga17",
+      "Title": "Boxing",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "3b030c92-b261-4192-afe0-d80855989ad4"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "773d9cad-2274-427b-9eec-403624d9b047"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "69c80f70-e160-4d27-bf3a-b038a7718755"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1qio7sqtnq6rz1xzbbc4xh9tbt",
+      "Title": "Golden Boy Promotions"
+    },
+    "ExpirationDate": "2026-10-09T18:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Golden Boy Promotions",
+    "IsDownloadable": false,
+    "VerifyAge": true,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:kbyqvp7wd6u81eklaknezzj91",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": true,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T18:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:02",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:e044zc3dl5jlcba3pvtioirrp",
+    "AgeRating": null,
+    "AssetId": "e044zc3dl5jlcba3pvtioirrp",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "16h0vgr0gyto71byinbwaeww8b",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "PSV - Heerenveen",
+    "Description": "Watch Soccer action as PSV takes on Heerenveen",
+    "Start": "2026-10-09T18:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-23T12:37:48Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "e044zc3dl5jlcba3pvtioirrp_image-header_pEs_1790167072000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "akmkihra9ruad09ljapsm84b3",
+      "Title": "Eredivisie",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "291e900a-58c8-4e5c-9648-7fac741000b9"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "291e900a-58c8-4e5c-9648-7fac741000b9"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "289u5typ3vp4ifwh5thalohmq",
+      "Title": "Football",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "8131fd7c-3957-4cd1-96e9-c7ecd384af25"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "aacb1d03-46d1-4735-9050-cd912dfcec82"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "7fe72571-8e4f-4dc6-8938-f3f1acb67b7a"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "zgesndde1h1t01ncb7upaczm49",
+      "Title": "Eredivisie"
+    },
+    "ExpirationDate": "2026-10-09T18:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Eredivisie",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:16h0vgr0gyto71byinbwaeww8b",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_nfldom_hyper",
+      "e_bal_us_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T18:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:03",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:5jj3206wosfvcgbxcr1v3nan9",
+    "AgeRating": null,
+    "AssetId": "5jj3206wosfvcgbxcr1v3nan9",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "16yiunh5zcrcf139ey652trfr7",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Borussia Dortmund - Werder Bremen",
+    "Description": "Borussia Dortmund steps up against Werder Bremen in a Bundesliga 26/27 clash that promises excitement. The home side looks to showcase their attacking strength while the visitors aim to secure valuable points. Can Werder Bremen contain Dortmund's firepower, or will the hosts take control? Tune in for all the drama!",
+    "Start": "2026-10-09T18:30:00Z",
+    "End": null,
+    "DisplayDate": "2026-07-08T10:50:19Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "5jj3206wosfvcgbxcr1v3nan9_image-header_pEs_1787120400000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "6by3h89i2eykc341oz7lv1ddd",
+      "Title": "Bundesliga",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "f212830e-9599-44e5-9a91-96815258e824"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "3c319f01-6159-4da7-a8ef-3daf0dd5f6a7"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "2e02e411-8e20-4d5a-b229-f7c3a678af69"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "289u5typ3vp4ifwh5thalohmq",
+      "Title": "Football",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "8131fd7c-3957-4cd1-96e9-c7ecd384af25"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "aacb1d03-46d1-4735-9050-cd912dfcec82"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "7fe72571-8e4f-4dc6-8938-f3f1acb67b7a"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "bvztr4o4oenn108yeq0t7q9de",
+      "Title": "Bundesliga"
+    },
+    "ExpirationDate": "2026-10-09T18:40:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Bundesliga",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:16yiunh5zcrcf139ey652trfr7",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_premium_pro",
+      "e_bal_fut_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": true,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T18:30:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:03",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:25icb27d246kgaht1mtpvof33",
+    "AgeRating": null,
+    "AssetId": "25icb27d246kgaht1mtpvof33",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1a1rj61vj75tq6bp461d9x9yd0",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Manchester Basketball - Cheshire Phoenix",
+    "Description": "Watch Basketball action as Manchester Basketball takes on Cheshire Phoenix",
+    "Start": "2026-10-09T18:30:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-29T17:42:49Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "25icb27d246kgaht1mtpvof33_image-header_pEs_1788425045000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "4cxogf67l5rq2a40gegqiwq38",
+      "Title": "Super League Basketball",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "4c0474c1-2c32-45a0-ac98-73b6a305ea57"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "ad5a8540-0739-438b-9aa1-1d8f418be19e"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "ayp4nebmprfbvzdsisazcw74y",
+      "Title": "Basketball",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "396ecff7-e103-423c-a2c0-725bd3f1cef8"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "0c5b8dca-417e-4b2b-b905-90af7c4a3a2b"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "m0wjxjvwivhj0kymtxdxvv57x0",
+      "Title": "Super League Basketball"
+    },
+    "ExpirationDate": "2026-10-09T18:40:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Super League Basketball",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1a1rj61vj75tq6bp461d9x9yd0",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T18:30:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:03",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:3kisv3mk220skg7ggw4tsqw58",
+    "AgeRating": null,
+    "AssetId": "3kisv3mk220skg7ggw4tsqw58",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1j1jupsx3fhfnkrz1mpniubtb0",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Leicester Riders - Bristol Flyers",
+    "Description": "Watch Basketball action as Leicester Riders takes on Bristol Flyers",
+    "Start": "2026-10-09T18:30:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-29T17:41:02Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "3kisv3mk220skg7ggw4tsqw58_image-header_pEs_1788355392000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "4cxogf67l5rq2a40gegqiwq38",
+      "Title": "Super League Basketball",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "4c0474c1-2c32-45a0-ac98-73b6a305ea57"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "ad5a8540-0739-438b-9aa1-1d8f418be19e"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "ayp4nebmprfbvzdsisazcw74y",
+      "Title": "Basketball",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "396ecff7-e103-423c-a2c0-725bd3f1cef8"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "0c5b8dca-417e-4b2b-b905-90af7c4a3a2b"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "m0wjxjvwivhj0kymtxdxvv57x0",
+      "Title": "Super League Basketball"
+    },
+    "ExpirationDate": "2026-10-09T18:40:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Super League Basketball",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1j1jupsx3fhfnkrz1mpniubtb0",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T18:30:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:03",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:bfmymg6g12nzdqwwhzh3a0vvg",
+    "AgeRating": null,
+    "AssetId": "bfmymg6g12nzdqwwhzh3a0vvg",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "im1rlcqhv5la01cqzd1zhvgswu",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Málaga CF - RCD Espanyol",
+    "Description": "Commentator: Fran Guillen. Analysts: Alberto Bueno and Corona. Catalan commentator: Gerard Guardi. DAZN team: Alex Bandera | Enjoy another round of LALIGA EA SPORTS on DAZN and join us for this cracking match between Málaga CF and RCD Espanyol. Don’t miss it!",
+    "Start": "2026-10-09T18:45:00Z",
+    "End": null,
+    "DisplayDate": "2026-07-02T08:41:27Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "bfmymg6g12nzdqwwhzh3a0vvg_image-header_pEs_1782981690000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "34pl8szyvrbwcmfkuocjm3r6t",
+      "Title": "LALIGA EA SPORTS",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "213b1272-664d-4f27-95b0-6e6e8fb233a0"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "d85ca2db-f729-4233-a6ca-6c5c5043ccb7"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "0d5dd968-0a12-464d-a67a-65e5ff9fe4a1"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "289u5typ3vp4ifwh5thalohmq",
+      "Title": "Football",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "8131fd7c-3957-4cd1-96e9-c7ecd384af25"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "aacb1d03-46d1-4735-9050-cd912dfcec82"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "7fe72571-8e4f-4dc6-8938-f3f1acb67b7a"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1masvtfcl31xf1ssjvwa2tap77",
+      "Title": "LALIGA EA SPORTS"
+    },
+    "ExpirationDate": "2026-10-09T19:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "LALIGA EA SPORTS",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:im1rlcqhv5la01cqzd1zhvgswu",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_laliga",
+      "e_pro_es",
+      "e_futbol_es",
+      "ent_gold_mov_es",
+      "e_bal_fut_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": true,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T19:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:04",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:c0bbol8bgz53v2kcbkytpozzx",
+    "AgeRating": null,
+    "AssetId": "c0bbol8bgz53v2kcbkytpozzx",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1cwd4ov4jvor81fy7fqife6w86",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "RC Lens - Olympique Lyonnais",
+    "Description": "Olympique Lyonnais travels to face Lens in Ligue 1 26/27 action that promises plenty of excitement. Can the visitors claim all three points, or will the home side prove too strong? This matchup features two sides eager to climb the table and make their mark this season. Tune in for all the drama!",
+    "Start": "2026-10-09T18:45:00Z",
+    "End": null,
+    "DisplayDate": "2026-06-18T07:47:30Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "c0bbol8bgz53v2kcbkytpozzx_image-header_pEs_1785749347000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "dm5ka0os1e3dxcp3vh05kmp33",
+      "Title": "Ligue 1",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "03f6c826-ff3c-4f2b-95a8-9b3d85976bbf"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "eb2d6139-8c26-44a4-9951-e12d290f1852"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "bbcce15e-ae24-4144-a6a7-4c4619e2e929"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "289u5typ3vp4ifwh5thalohmq",
+      "Title": "Football",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "8131fd7c-3957-4cd1-96e9-c7ecd384af25"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "aacb1d03-46d1-4735-9050-cd912dfcec82"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "7fe72571-8e4f-4dc6-8938-f3f1acb67b7a"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "kml5vew4z1fn01epjfehu9pa0j",
+      "Title": "Ligue 1"
+    },
+    "ExpirationDate": "2026-10-09T18:55:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Ligue 1",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1cwd4ov4jvor81fy7fqife6w86",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_essential",
+      "e_vf_og_pre_ft_mt_mov_es",
+      "e_pro_es",
+      "e_futbol_es",
+      "e_es_nfldom_hyper",
+      "e_vdf_es",
+      "e_bal_fut_es",
+      "ent_baloncesto_premium_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T18:45:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:04",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:rc5wsjkqtzqf11r8vsek47cgx",
+    "AgeRating": null,
+    "AssetId": "rc5wsjkqtzqf11r8vsek47cgx",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1n2606di0f3gk1jrkkyyt34k3t",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Sutton vs. Boreham Wood",
+    "Description": "Watch all the action from the National League on DAZN.",
+    "Start": "2026-10-09T18:45:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-17T10:39:45Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "rc5wsjkqtzqf11r8vsek47cgx_image-header_pEs_1789641629000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": {
+      "ImageMimeType": "png",
+      "ImageType": "image-gallery",
+      "Id": "rc5wsjkqtzqf11r8vsek47cgx_image-gallery_pEs_1790962817000"
+    },
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "b5udgm9vakjqz8dcmy5b2g0xt",
+      "Title": "Enterprise National League",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "db0f1d42-22fa-41fd-ab41-e11d78c12259"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "6fdaa4b5-eb13-4f75-a23b-4d9c240b8142"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "5198f3bc-fb82-4d72-89fb-9c3a8e8092f5"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "c5fb20ee-dcfb-41a8-9392-f94ac6aaeb33"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "289u5typ3vp4ifwh5thalohmq",
+      "Title": "Football",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "8131fd7c-3957-4cd1-96e9-c7ecd384af25"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "aacb1d03-46d1-4735-9050-cd912dfcec82"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "7fe72571-8e4f-4dc6-8938-f3f1acb67b7a"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "12zqgglkvnfpe1xw33w05dh7yk",
+      "Title": "National League"
+    },
+    "ExpirationDate": "2026-10-09T18:55:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "National League",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1n2606di0f3gk1jrkkyyt34k3t",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "ent_nationalleaguetv_pro_competitions",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T18:45:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:04",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:1a3ah8fxcdiv11s1iy0jo3hnbl",
+    "AgeRating": null,
+    "AssetId": "1a3ah8fxcdiv11s1iy0jo3hnbl",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1v3mrmdwqg8ajdo461g5gjnrn0",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "UD Ibiza – Real Madrid Castilla",
+    "Description": "Enjoy the Primera Federación match between UD Ibiza and Real Madrid Castilla.",
+    "Start": "2026-10-09T19:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-10-05T15:25:58Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "1a3ah8fxcdiv11s1iy0jo3hnbl_image-header_pEs_1791213955000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "degxm4y6gmvp011ccyrev6z5p",
+      "Title": "Primera Federación Versus e-Learning",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "c5f4609b-0ff6-4be1-830f-e4ea6dcbd3c2"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "c5f4609b-0ff6-4be1-830f-e4ea6dcbd3c2"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "289u5typ3vp4ifwh5thalohmq",
+      "Title": "Football",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "8131fd7c-3957-4cd1-96e9-c7ecd384af25"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "aacb1d03-46d1-4735-9050-cd912dfcec82"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "7fe72571-8e4f-4dc6-8938-f3f1acb67b7a"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1dsqdumbhryjh579hwxyfqd8f0",
+      "Title": "Primera Federación"
+    },
+    "ExpirationDate": "2026-10-09T19:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Primera Federación",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1v3mrmdwqg8ajdo461g5gjnrn0",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_nfldom_hyper",
+      "e_vdf_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T19:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:04",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:czinro8vasy6kfjjx9ptfwmvx",
+    "AgeRating": null,
+    "AssetId": "czinro8vasy6kfjjx9ptfwmvx",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "112x808k1r1w189o5yqoucw0t0",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Braga - Sporting CP",
+    "Description": "Watch Soccer action as Sporting Braga takes on Sporting CP",
+    "Start": "2026-10-09T19:15:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-25T03:19:26Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "czinro8vasy6kfjjx9ptfwmvx_image-header_pEs_1790306373000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "8yi6ejjd1zudcqtbn07haahg6",
+      "Title": "Liga Portugal",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "598d89fa-db2a-4d17-98ca-9b49945fa90b"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "598d89fa-db2a-4d17-98ca-9b49945fa90b"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "289u5typ3vp4ifwh5thalohmq",
+      "Title": "Football",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "8131fd7c-3957-4cd1-96e9-c7ecd384af25"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-logo",
+          "Id": "57a69763-3caf-477b-b35f-bd9e3809796d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-portrait",
+          "Id": "aacb1d03-46d1-4735-9050-cd912dfcec82"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "7fe72571-8e4f-4dc6-8938-f3f1acb67b7a"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1trtz77w7qp6i1uf53agxnd1t2",
+      "Title": "Liga Portugal"
+    },
+    "ExpirationDate": "2026-10-09T19:25:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Liga Portugal",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:112x808k1r1w189o5yqoucw0t0",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_nfldom_hyper",
+      "e_bal_us_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T19:15:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:04",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:2yw8kvzawtm6z1hr3j6z7x3jh",
+    "AgeRating": null,
+    "AssetId": "2yw8kvzawtm6z1hr3j6z7x3jh",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "wnpv8asnq8um1jeaanpch6jeb",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "Jimbee Cartagena Costa Cálida - Noia Portus Apostoli",
+    "Description": "Watch Futsal action as Cartagena takes on Noia Portus Apostoli",
+    "Start": "2026-10-09T19:30:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-18T16:38:51Z",
+    "Image": {
+      "ImageMimeType": "png",
+      "ImageType": "image-header",
+      "Id": "2yw8kvzawtm6z1hr3j6z7x3jh_image-header_pEs_1789749535000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "4c69uhi3nmanubhf2s0x8c2z8",
+      "Title": "Liga Prime Futsal",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "6b9e6849-64e2-4f1b-9d11-a6c6999679bf"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "6b9e6849-64e2-4f1b-9d11-a6c6999679bf"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "99708qfta5u5exc2n98cnoblu",
+      "Title": "Futsal",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "b7861347-cc09-47b8-9056-7afb9e42f5dc"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "f4a0f601-ab53-4a67-94e2-27e70d155fa2"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1ji9588xngba71tr62zu3bmqrd",
+      "Title": "Liga Prime Futsal"
+    },
+    "ExpirationDate": "2026-10-09T19:40:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Liga Prime Futsal",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:wnpv8asnq8um1jeaanpch6jeb",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [
+      "e_es_nfldom_hyper",
+      "e_bal_us_es",
+      "a_a"
+    ],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T19:30:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:04",
+    "Reason": "Media no disponible (programado)"
+  },
+  {
+    "Id": "Scheduled:1ol2sw7c96bhd1s5bxod8le445",
+    "AgeRating": null,
+    "AssetId": "1ol2sw7c96bhd1s5bxod8le445",
+    "AssetTypeId": "1f2vso6mwht2x1x9hi3euru0fb",
+    "EventId": "1ha1v7yp26gah1illrtd8881xa",
+    "Type": "UpComing",
+    "NavigateTo": null,
+    "NavParams": null,
+    "Title": "MLTT - Week 3: Texas Smash vs. Florida Crocs",
+    "Description": "Watch all the action from week three of Major League Table Tennis, with Texas Smash, Florida Crocs, Atlanta Blazers and New York Slice all in action.",
+    "Start": "2026-10-09T20:00:00Z",
+    "End": null,
+    "DisplayDate": "2026-09-08T12:49:13Z",
+    "Image": {
+      "ImageMimeType": "jpg",
+      "ImageType": "image-header",
+      "Id": "1ol2sw7c96bhd1s5bxod8le445_image-header_pEs_1790170706000"
+    },
+    "BackgroundImage": null,
+    "PromoImage": null,
+    "LogoImage": null,
+    "PortraitImage": null,
+    "HeroImage": null,
+    "Competition": {
+      "Id": "t1720c8cppt81717dxltgd2ts",
+      "Title": "Major League Table Tennis ",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "04429fb6-32c4-407c-9b9f-9febc1403575"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "266d27de-9895-47f2-a61d-40bd13d9a735"
+        }
+      ]
+    },
+    "Sport": {
+      "Id": "3ns84het8271wkr7273bmax5j",
+      "Title": "Table Tennis",
+      "Images": [
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-background",
+          "Id": "a6b608cc-e0ea-42fe-a7a7-f66e28d7db4d"
+        },
+        {
+          "ImageMimeType": "jpg",
+          "ImageType": "image-tile",
+          "Id": "a6b608cc-e0ea-42fe-a7a7-f66e28d7db4d"
+        }
+      ]
+    },
+    "Contestants": [],
+    "Videos": [],
+    "Related": [],
+    "TournamentCalendar": {
+      "Id": "1fu8ye2t7e7t210eidvofvsvo9",
+      "Title": "Major League Table Tennis"
+    },
+    "ExpirationDate": "2026-10-09T20:10:00Z",
+    "VideoType": "Vod",
+    "IsGeoRestricted": false,
+    "IsLinear": false,
+    "Status": null,
+    "Label": "Major League Table Tennis",
+    "IsDownloadable": false,
+    "VerifyAge": false,
+    "NewLabel": false,
+    "IsFreeToView": false,
+    "PinProtect": false,
+    "ArticleNavParams": "PageType:Fixture;ContentType:Fixture;ContentId:1ha1v7yp26gah1illrtd8881xa",
+    "ArticleNavigateTo": "Fixture",
+    "EntitlementIds": [],
+    "LinearSchedule": null,
+    "isAudioStream": false,
+    "audioLangs": [],
+    "IsPlayForFree": false,
+    "dolbyConfig": [],
+    "closedCaptioning": [],
+    "IsMultiView": false,
+    "HeEventTypeConfig": {},
+    "Teaser": "",
+    "IsFreemiumLite": false,
+    "DisplayType": "UpComing",
+    "CompetitionGroupId": "",
+    "IsFanzone": false,
+    "DisplayTypeLabel": "",
+    "MainFixtureId": null,
+    "WatchStatus": null,
+    "ProgressPercentage": null,
+    "TotalSecondsWatched": null,
+    "DurationInMillis": null,
+    "LinearProvider": null,
+    "EventStartTime": "2026-10-09T20:00:00Z",
+    "MediaStartTime": null,
+    "FrameContract": null,
+    "IsGeoFenced": false,
+    "Providers": [],
+    "Zones": [],
+    "AddedAt": "2026-10-09T14:16:04",
+    "Reason": "Media no disponible (programado)"
+  }
+]
