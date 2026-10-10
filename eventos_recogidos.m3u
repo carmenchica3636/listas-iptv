@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="u94bey38t3ns1pocvyx0dx6i6" tvg-name="Rome - GCL Round 1" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/u94bey38t3ns1pocvyx0dx6i6_image-header_pEs_1791565005000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Rome - GCL Round 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=614adf22a7745d909a0ac8982a10d24e:034a467dfe3e777632727b510033782c
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWpyeDFkb3Y4b3M3bjFtemo5MzYwcmNnYjQiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTYxOTgyMywiZXhwIjoxNzkxNzA2MjIzfQ.vfwCZNJnPSoClmA29QEHhecOvw6rYsk8psOQsHNlqkw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dca-ac-live.cdn.indazn.com/1jrx1dov8os7n1mzj9360rcgb4/web/stream.mpd?channel=7015&outlet=dazn-spain&plang=en
 #EXTINF:-1 tvg-id="chsrn1j7e2sg1826cpcop73bk" tvg-name="Qualifying 1 | Hockenheimring" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/chsrn1j7e2sg1826cpcop73bk_image-header_pEs_1790172108000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Qualifying 1 | Hockenheimring
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2924adb5aa4b5c0fa6546de7c1750b7b:a0c3e6655c15d4c67d7fa7c4d8036266
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXU3ZjU4dDlwMjE0YTFzd3djejk5NDI2aDEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTYxOTcxOSwiZXhwIjoxNzkxNzA2MTE5fQ.moYKYENeBN0SS2O93RLqdVTc7yOvuw19A_1YtQLZMSE
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMXU3ZjU4dDlwMjE0YTFzd3djejk5NDI2aDEiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTYyMDY0MCwiZXhwIjoxNzkxNzA3MDQwfQ.ASXXV1zsmKMRVzlNrltNGs3FMlec4NdY7btLxHklxXg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dca-ac-live.cdn.indazn.com/1u7f58t9p214a1swwcz99426h1/web/stream.mpd?channel=5071&outlet=dazn-spain&plang=en
+#EXTINF:-1 tvg-id="d6nt09382gt815kk1jvb5lq1a" tvg-name="Rome - GCL Round 1" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/d6nt09382gt815kk1jvb5lq1a_image-header_pEs_1791565005000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Rome - GCL Round 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=614adf22a7745d909a0ac8982a10d24e:034a467dfe3e777632727b510033782c
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMWpyeDFkb3Y4b3M3bjFtemo5MzYwcmNnYjQiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MTYyMDY0MSwiZXhwIjoxNzkxNzA3MDQxfQ.tAcIYGzrnp-3heYUfUQR6Jsk4DmCeaw1WfgrTTs2suY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/1jrx1dov8os7n1mzj9360rcgb4/web/stream.mpd?channel=7015&outlet=dazn-spain&plang=en
