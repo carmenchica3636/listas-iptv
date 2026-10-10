@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="16hhgpftcvzfuacer1ou5d7fk" tvg-name="Il Lombardia" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/16hhgpftcvzfuacer1ou5d7fk_image-header_pEs_1790171758000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Il Lombardia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c34d673f4c57537fb26cb75f3cb2d400:9846a8996f31668f1437013448cbdf38
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvMTloMXI3NXI4dHl3NjF1amNpYm4zOGRyZmkiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiNmM0MzQyNjEyZjMwIiwiaW50c2lnIjoiYjRwM0pONWhYZFI3WTYybHlhNVhQYWxBMFpJQTZNc3Z5OVhWcGxJVDZ1VSIsImlhdCI6MTc5MTYyMTAyMywiZXhwIjoxNzkxNzA3NDIzfQ.aN-l9lkJzMhuJQcCjYzWl07kWFKPaVDJXR9kWdRJ2ac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dca-ac-live.cdn.indazn.com/19h1r75r8tyw61ujcibn38drfi/web/stream.mpd?channel=7024&outlet=dazn-spain&plang=en
 #EXTINF:-1 tvg-id="chsrn1j7e2sg1826cpcop73bk" tvg-name="Qualifying 1 | Hockenheimring" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/chsrn1j7e2sg1826cpcop73bk_image-header_pEs_1790172108000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Eventos",Qualifying 1 | Hockenheimring
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
