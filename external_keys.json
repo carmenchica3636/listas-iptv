@@ -1,10 +1,9 @@
 {
   "_meta": {
     "version": 2,
-    "updated": "2026-10-09T14:14:31",
+    "updated": "2026-10-11T22:57:31",
     "count_linear": 0,
-    "count_events": 12,
-    "note": "Las claves en STATIC_CLEARKEY_KEYS del código NO se duplican aquí"
+    "count_events": 62
   },
   "linear": {},
   "events": {
@@ -69,6 +68,287 @@
       "key": "f49eaf493aac236caad255114ec5d179",
       "name": "Colombia - Italy",
       "added": "2026-10-09T14:14:31"
+    },
+    "54c5c5e81117596f9a009202b4cf46ee": {
+      "key": "ba6dc90dced26cced42e8b2cf76dcae1",
+      "name": "FP2 & Superpole Low Classes | Tissot Estoril Round",
+      "added": "2026-10-09T17:26:33"
+    },
+    "4afa8fccca1355ddbf227429378653ce": {
+      "key": "38a348540c2d08503ffb91da247da85f",
+      "name": "Freestyle Friday #15",
+      "added": "2026-10-09T17:26:34"
+    },
+    "469f5a7408335ee4942629a916593ca6": {
+      "key": "fa0153b21d2447dcceb71d06937faaa3",
+      "name": "Joey Essex vs. Dapper Laughs: Weigh-In",
+      "added": "2026-10-09T17:57:17"
+    },
+    "305f3652efd551808a4d4f61dffc58e5": {
+      "key": "b4f8f4dd819bd3a4b5cb62ab4e021e18",
+      "name": "Germany - Spain",
+      "added": "2026-10-09T18:48:58"
+    },
+    "5109278c3a20561a9330ac474f292a1f": {
+      "key": "e1505e0cb2e8abe53a536802b2937bef",
+      "name": "Illes Balears Palma Futsal - O Parrulo Ferrol",
+      "added": "2026-10-09T19:25:27"
+    },
+    "b1d47751e3ba518ca18d61c7111f953f": {
+      "key": "90f87b2afb94b02537b4abd9bcdae52c",
+      "name": "PSV - Heerenveen",
+      "added": "2026-10-09T19:50:39"
+    },
+    "cae040ab52c45a358fdf6c2c11462ea3": {
+      "key": "60dbf74f4b392cd2c5a502768f37f440",
+      "name": "Schofield vs. Bahdi: Weigh-In",
+      "added": "2026-10-09T19:57:12"
+    },
+    "f9647b78858852149002881c283e39e6": {
+      "key": "b0f038dfcd551b967615c12633a9c66b",
+      "name": "Borussia Dortmund - Werder Bremen",
+      "added": "2026-10-09T20:20:57"
+    },
+    "12a8e800b29959a6994cd71c32c3131c": {
+      "key": "2695555f30ad3dc530a8565c3f911157",
+      "name": "Manchester Basketball - Cheshire Phoenix",
+      "added": "2026-10-09T20:20:58"
+    },
+    "6c84b039927556fcbaeb7d19f643a3d9": {
+      "key": "ab61e23dd36d057e05313f091b345957",
+      "name": "Leicester Riders - Bristol Flyers",
+      "added": "2026-10-09T20:20:59"
+    },
+    "23d3f42947645792ac59850e41b40a80": {
+      "key": "44d717038f73b5e67477ca91b4ab1c07",
+      "name": "RC Lens - Olympique Lyonnais",
+      "added": "2026-10-09T20:27:36"
+    },
+    "440ecab18a3d5babbb3f7c7546f8f697": {
+      "key": "485e7963c16f2b5068f5e3e502a451e7",
+      "name": "Málaga CF - RCD Espanyol",
+      "added": "2026-10-09T20:41:11"
+    },
+    "7e8343afd7315f53a569e21f74233629": {
+      "key": "0dc303cc55ce11c6ba8500d3bd4a4d9a",
+      "name": "Braga - Sporting CP",
+      "added": "2026-10-09T21:10:03"
+    },
+    "c3496023a96b5206bc9280cc1b20bd19": {
+      "key": "89bf52b809726619aaf48ce2f65b057a",
+      "name": "Jimbee Cartagena Costa Cálida - Noia Portus Apostoli",
+      "added": "2026-10-09T21:25:02"
+    },
+    "260732f2da1b542f8f61379599afda49": {
+      "key": "3b1cdaf850afbbff067655c5848aad2a",
+      "name": "MLTT - Week 3: Texas Smash vs. Florida Crocs",
+      "added": "2026-10-09T22:00:26"
+    },
+    "a3b9878a260c52dfbf6d26aa950a2790": {
+      "key": "7e0daa903bb81d71d30eb5a5296ac986",
+      "name": "Day 4",
+      "added": "2026-10-10T00:27:19"
+    },
+    "2924adb5aa4b5c0fa6546de7c1750b7b": {
+      "key": "a0c3e6655c15d4c67d7fa7c4d8036266",
+      "name": "Qualifying 1 | Hockenheimring",
+      "added": "2026-10-10T09:52:50"
+    },
+    "614adf22a7745d909a0ac8982a10d24e": {
+      "key": "034a467dfe3e777632727b510033782c",
+      "name": "Rome - GCL Round 1",
+      "added": "2026-10-10T10:10:23"
+    },
+    "c34d673f4c57537fb26cb75f3cb2d400": {
+      "key": "9846a8996f31668f1437013448cbdf38",
+      "name": "Il Lombardia",
+      "added": "2026-10-10T10:30:24"
+    },
+    "9719c5e544645007baecd261b51b46d7": {
+      "key": "",
+      "name": "Italy - Germany",
+      "added": "2026-10-11T13:12:23",
+      "status": "placeholder"
+    },
+    "0f59abf0901d51f1864467cef8289749": {
+      "key": "",
+      "name": "Race 1 | Navarra",
+      "added": "2026-10-11T13:12:26",
+      "status": "placeholder"
+    },
+    "a674845669dc51f8881a7ad3c53990ab": {
+      "key": "",
+      "name": "Liverpool - Manchester City",
+      "added": "2026-10-11T17:20:42",
+      "status": "placeholder"
+    },
+    "49f45d2e138e515da55fd216ff778526": {
+      "key": "",
+      "name": "Real Sociedad - RC Deportivo",
+      "added": "2026-10-11T17:20:44",
+      "status": "placeholder"
+    },
+    "5ea1dc57287a597b80c18e8d71c5c16b": {
+      "key": "",
+      "name": "Eagles - Jaguars (in Spanish)",
+      "added": "2026-10-11T17:20:46",
+      "status": "placeholder"
+    },
+    "c29d568297d250b8b386d2f1072de183": {
+      "key": "",
+      "name": "Kosner Baskonia - Asisa Joventut",
+      "added": "2026-10-11T17:20:47",
+      "status": "placeholder"
+    },
+    "570c9919f57352fd9bd14580e52ca9c9": {
+      "key": "",
+      "name": "Paris-Tours",
+      "added": "2026-10-11T17:20:49",
+      "status": "placeholder"
+    },
+    "28db925684e252ebb5c09039029c95c6": {
+      "key": "",
+      "name": "Race 2 (All Classes) | Tissot Estoril Round",
+      "added": "2026-10-11T17:20:50",
+      "status": "placeholder"
+    },
+    "6eec4aeb1a3e5673b7bec708ff660ae3": {
+      "key": "",
+      "name": "Servigroup Peñíscola FS - Córdoba Patrimonio Humanidad",
+      "added": "2026-10-11T17:20:52",
+      "status": "placeholder"
+    },
+    "7681ec1a13a0578a972be0439e8ae0d3": {
+      "key": "",
+      "name": "Freiburg - Schalke 04",
+      "added": "2026-10-11T17:20:54",
+      "status": "placeholder"
+    },
+    "045aa1ac92f85db8af846a5d99a7d248": {
+      "key": "",
+      "name": "Stade Rennais FC - AJ Auxerre",
+      "added": "2026-10-11T17:20:55",
+      "status": "placeholder"
+    },
+    "97f3c5da255f5669b67c8a47b60e3e08": {
+      "key": "",
+      "name": "Porto vs. Benfica",
+      "added": "2026-10-11T17:20:57",
+      "status": "placeholder"
+    },
+    "e0a01d2880b05872b5717626c24c6228": {
+      "key": "",
+      "name": "Braga vs. Portimonense",
+      "added": "2026-10-11T17:20:58",
+      "status": "placeholder"
+    },
+    "e232c55f15535267af991eb5c5af0619": {
+      "key": "",
+      "name": "Race 2 | Hockenheimring",
+      "added": "2026-10-11T17:21:00",
+      "status": "placeholder"
+    },
+    "9186acf93dc7532eaaf1ac101176e196": {
+      "key": "",
+      "name": "FC Köln - Borussia Mönchengladbach",
+      "added": "2026-10-11T17:21:01",
+      "status": "placeholder"
+    },
+    "703a042176405bac9d4b24541ed51652": {
+      "key": "",
+      "name": "Lazio - Monza",
+      "added": "2026-10-11T17:21:02",
+      "status": "placeholder"
+    },
+    "9142beea9b1f5b8e830925dc925d3ca2": {
+      "key": "",
+      "name": "MLTT - Week 3: Texas Smash vs. Atlanta Blazers",
+      "added": "2026-10-11T17:21:04",
+      "status": "placeholder"
+    },
+    "d0f941717f1556e2bd718287aa6c7a58": {
+      "key": "",
+      "name": "Sheffield Sharks - Leicester Riders",
+      "added": "2026-10-11T17:21:05",
+      "status": "placeholder"
+    },
+    "ef9f95b656e05e4ea452cb730b073643": {
+      "key": "",
+      "name": "Race 2 | Navarra",
+      "added": "2026-10-11T17:21:07",
+      "status": "placeholder"
+    },
+    "f6c20d1f94ae57708abce6e62dae2a15": {
+      "key": "",
+      "name": "Giants @ Commanders",
+      "added": "2026-10-11T18:22:44",
+      "status": "placeholder"
+    },
+    "b3ebc032dde15924b2c8e24ecfe42cf8": {
+      "key": "",
+      "name": "Cagliari - Juventus",
+      "added": "2026-10-11T20:32:02",
+      "status": "placeholder"
+    },
+    "755aee58540b509b878c08d492aa42d5": {
+      "key": "",
+      "name": "ESTAC Troyes - Olympique de Marseille",
+      "added": "2026-10-11T20:32:04",
+      "status": "placeholder"
+    },
+    "4913959b599c59eb87a9e75788caa4ad": {
+      "key": "",
+      "name": "Barça - Valencia Basket + La Prórroga",
+      "added": "2026-10-11T20:32:05",
+      "status": "placeholder"
+    },
+    "b1fb2db408f0513d8c4cba86e08ae7d4": {
+      "key": "",
+      "name": "Raiders @ Patriots (in Spanish)",
+      "added": "2026-10-11T20:32:07",
+      "status": "placeholder"
+    },
+    "d8f68a43b5f45ded9963e87537bfad85": {
+      "key": "",
+      "name": "Game Time #5 | Red Zone in Spanish",
+      "added": "2026-10-11T20:32:08",
+      "status": "placeholder"
+    },
+    "ef6f46af7a835054bf7f71f19b98f5c8": {
+      "key": "",
+      "name": "Week 5 | RedZone",
+      "added": "2026-10-11T20:32:15",
+      "status": "placeholder"
+    },
+    "536b2f1a4bd4535b88d6cd0777d15f63": {
+      "key": "",
+      "name": "Benfica - Vitória Guimarães",
+      "added": "2026-10-11T20:32:17",
+      "status": "placeholder"
+    },
+    "6aaa354239cd54478d7f5b015c1e46ef": {
+      "key": "",
+      "name": "R. Racing Club - Valencia CF + El Post",
+      "added": "2026-10-11T22:57:17",
+      "status": "placeholder"
+    },
+    "bc24d0e18b415298a017decb672e948e": {
+      "key": "",
+      "name": "49ers @ Seahawks (in Spanish)",
+      "added": "2026-10-11T22:57:19",
+      "status": "placeholder"
+    },
+    "7e517191d6785cbfa98b43118dd8333d": {
+      "key": "",
+      "name": "MLTT - Week 3: Florida Crocs vs. New York Slice",
+      "added": "2026-10-11T22:57:29",
+      "status": "placeholder"
+    },
+    "83f4a51c25c25e68abd4d49d922ef349": {
+      "key": "",
+      "name": "Spain - Colombia",
+      "added": "2026-10-11T22:57:31",
+      "status": "placeholder"
     }
   }
 }
