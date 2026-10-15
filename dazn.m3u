@@ -1,1 +1,65 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="10gh11eflis5218xkmk56rom88" tvg-name="Eurosport 1" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10gh11eflis5218xkmk56rom88_image-header_pEs_1661945507000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Canales 🇮🇹",Eurosport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1adb1748b73559d9c3641d200f29ad1:6dbc885222db0ec39f969ff9f70af4a6
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1792100486~exp=1792186886~acl=/*~id=03363f3bbbad~data=proto=dash#country=es#asn=15704#path=1s,2d#hashp=0666c7721b35a02ec57be73f2bb336fe72de49f9f3ff0d3a2ad746b8203c217f#hashua=d713dadbf3d0ca255287b277ab4d36ce7d711d34f197e05966270e2160e6da6c~hmac=b0a7a4a9acf47a6ab1562c8e6723fea40c50625dfa490998f14e55cee086e8a2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-213/stream.mpd?p=web
+#EXTINF:-1 tvg-id="q7um7tlclage1wv4tlteh235t" tvg-name="Eurosport 2" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/q7um7tlclage1wv4tlteh235t_image-header_pEs_1661945507000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Canales 🇮🇹",Eurosport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2318d90a05375833a1168f315dd18b07:808154091db21ad932fbbc3bce646c0e
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1792100487~exp=1792186887~acl=/*~id=03363f3bbbad~data=proto=dash#country=es#asn=15704#path=1s,2d#hashp=bd2bc8d1e28c52c9f13bc7ac5a24b0b86a11d4ebdb9ef4a6cb91abe12931a6b2#hashua=d713dadbf3d0ca255287b277ab4d36ce7d711d34f197e05966270e2160e6da6c~hmac=113df0be071c4402d0992b599c6c0a6ae3898eb5680f4ec920f276d75877714f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-214/stream.mpd?p=web
+#EXTINF:-1 tvg-id="bb9zags6wz9c1lfkaaqwz5re8" tvg-name="Primera Federación" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/bb9zags6wz9c1lfkaaqwz5re8_image-header_pEs_1788967921000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Canales 🇮🇹",Primera Federación
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci01NDIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiMDMzNjNmM2JiYmFkIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MjEwMDQ4NywiZXhwIjoxNzkyMTg2ODg3fQ.701K6KcoyJeER8n-W0NuLFjPcFh6Iz58CleLH8lNxsY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-542/stream.mpd?p=web
+#EXTINF:-1 tvg-id="uilgx8nu9ql01y2cpn93om99g" tvg-name="DAZN 1" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/uilgx8nu9ql01y2cpn93om99g_image-header_pEs_1723035920000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Canales 🇮🇹",DAZN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a55a7dfd59cb534992d19aa8e66e0ab9:c10a80c5e369338af6819bd9bd77399e
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1792100489~exp=1792186889~acl=/*~id=03363f3bbbad~data=proto=dash#country=es#asn=15704#path=1s,2d#hashp=e7c089301774a0f47791189435fdefb86e6a66a233cf60f8aa92604477ab3a26#hashua=d713dadbf3d0ca255287b277ab4d36ce7d711d34f197e05966270e2160e6da6c~hmac=cc99bacde4a5413017eb54def289f7be66510df5b964a43cb7c2d6a184c62328
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-218/stream.mpd?p=web
+#EXTINF:-1 tvg-id="9t76331jcxk018x3taqlngsx6" tvg-name="DAZN 2" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/9t76331jcxk018x3taqlngsx6_image-header_pEs_1723118632000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Canales 🇮🇹",DAZN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=77f46b0cecfa5d3e930b6b679899372b:30152efcbbfb69f661c8432dcb3da165
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1792100489~exp=1792186889~acl=/*~id=03363f3bbbad~data=proto=dash#country=es#asn=15704#path=1s,2d#hashp=2de758676f75b030a000481a38520438cc0c5988916a4649c520afe63a93993c#hashua=d713dadbf3d0ca255287b277ab4d36ce7d711d34f197e05966270e2160e6da6c~hmac=977d7996e1be2cc21bc45389b451c70c8d192cb8ea53e2dc36f9d99b6597176f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-219/stream.mpd?p=web
+#EXTINF:-1 tvg-id="lt8rbplids01jye6xz360b8y" tvg-name="NFL Network: Live 24/7 Coverage" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/lt8rbplids01jye6xz360b8y_image-header_pEs_1711624423000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Canales 🇮🇹",NFL Network: Live 24/7 Coverage
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d91b5dc41ef85a25883ca47efb3c6641:5fa7e0ff1e379a83e44005917e3af5f2
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1792100490~exp=1792186890~acl=/*~id=03363f3bbbad~data=proto=dash#country=es#asn=15704#path=1s,2d#hashp=12db6456c6038b13cde753976f96819e327a59e3944f86aa9191e9cad885044c#hashua=d713dadbf3d0ca255287b277ab4d36ce7d711d34f197e05966270e2160e6da6c~hmac=633fc9bacf587dbe4039b3c4e9310bd03790ff1937f868a0a476c40eb5b7942b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-205/stream.mpd?p=web
+#EXTINF:-1 tvg-id="g9s2l8zol46v1410p3s5zll26" tvg-name="Red Bull TV" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/g9s2l8zol46v1410p3s5zll26_image-header_pEs_1723124640000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Canales 🇮🇹",Red Bull TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5912d48e2b915caf9ae5ab0c3df9aae1":"7b8a244c697735202591656b052eafba"}
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=st=1792100490~exp=1792186890~acl=/*~id=03363f3bbbad~data=proto=dash#country=es#asn=15704#path=1s,2d#hashp=4d384fb7a0260ade4a5fa2b9fd8e3af8ea167506968015cd4d6547672728417a#hashua=d713dadbf3d0ca255287b277ab4d36ce7d711d34f197e05966270e2160e6da6c~hmac=ff16696102cc43f6dd042e0bd132e5f9b70920ad8c484179fbb4d3f547c4e2e1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-217/stream.mpd?p=web
+#EXTINF:-1 tvg-id="1rr9dhuzj2hx21u8dmtz6e7kx0" tvg-name="Unbeaten" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1rr9dhuzj2hx21u8dmtz6e7kx0_image-header_pEs_1666621216000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Canales 🇮🇹",Unbeaten
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci01MjIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiMDMzNjNmM2JiYmFkIiwiaW50c2lnIjoiWHVKRk55blZKa2J1N3U1ZEVOY25PNVlFUzFtLXZtUUdNNUlzZUVqcTJpdyIsImlhdCI6MTc5MjEwMDQ5MSwiZXhwIjoxNzkyMTg2ODkxfQ.F8l9kpRfe0OSGh8Bt5SSVoe9kBDNmxBK6U02ymAJKgY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-522/stream.mpd?p=web
