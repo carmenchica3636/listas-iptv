@@ -1,17 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="10gh11eflis5218xkmk56rom88" tvg-name="Eurosport 1" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/10gh11eflis5218xkmk56rom88_image-header_pEs_1661945507000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Canales 🇮🇹",Eurosport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1adb1748b73559d9c3641d200f29ad1:6dbc885222db0ec39f969ff9f70af4a6
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMTMiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiSkpZSzI0Q1FIWVlnWGVheXJ3V1dEMENyaEltdFltVHdmWUJTaktTbVJySSIsImlhdCI6MTc5MjUzNDY0MCwiZXhwIjoxNzkyNjIxMDQwfQ.jNU3pcb35x4MYJTfV_856u6M4MWr76MPsUoblkSYMZ8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dazn.com/
+https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-213/stream.mpd?p=web
 #EXTINF:-1 tvg-id="q7um7tlclage1wv4tlteh235t" tvg-name="Eurosport 2" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/q7um7tlclage1wv4tlteh235t_image-header_pEs_1661945507000/fill/center/top/none/80/1920/1083/jpg/image?brand=dazn" group-title="DAZN Canales 🇮🇹",Eurosport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2318d90a05375833a1168f315dd18b07:808154091db21ad932fbbc3bce646c0e
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMTQiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiMnYzZHFfRzFOaHZUN0xXWXFIcXNDc1cwMDJrZWFqeHFsanVIUlFnSTZUYyIsImlhdCI6MTc5MjUzNDU1NCwiZXhwIjoxNzkyNjIwOTU0fQ.sEkA1ZS0-rupoWTq_ffQoe9EFMpZWdp4-aClV9Ro9-w
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTI2MjEwNDEsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOWZiZmIxN2FkODFiMmJlY2VhNjMwNTRmNDQwMjk4NDFlZDJlNGY1ZSIsInNzaWQiOiJiZmU3NTkyNTNhZGQiLCJwcm90byI6ImRhc2giLCJnZW8iOiJlcyIsImFzbiI6WyIxMzMzNSJdLCJ1YSI6ImI2NWQ0MjUxYzhlNjJjOTVmOTE3ZTAyNjVkOWUxYzQ5YTA4ZWU3YzUiLCJpYXQiOjE3OTI1MzQ2NDF9.so89nwG8A_Q_0UXJlTfEgsmh5mW1x8931OmIzdLgeAw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-214/stream.mpd?p=web
+https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-214/stream.mpd?p=web
 #EXTINF:-1 tvg-id="jmo6cqyd4edr1dghmtp57houm" tvg-name="DAZN LALIGA" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/jmo6cqyd4edr1dghmtp57houm_image-header_pEs_1688456206000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Canales 🇮🇹",DAZN LALIGA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b920a58b15d65ab9a27316e85c747138:ec59ac08a32fcec4f8c075ca221ce22a
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMjQiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiMnYzZHFfRzFOaHZUN0xXWXFIcXNDc1cwMDJrZWFqeHFsanVIUlFnSTZUYyIsImlhdCI6MTc5MjUzNDU1NSwiZXhwIjoxNzkyNjIwOTU1fQ.jHkM7ZrQqfYQlyAT3YfCIO8vxrqniR21QJsWCzYFM1Y
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMjQiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiSkpZSzI0Q1FIWVlnWGVheXJ3V1dEMENyaEltdFltVHdmWUJTaktTbVJySSIsImlhdCI6MTc5MjUzNDY0MSwiZXhwIjoxNzkyNjIxMDQxfQ.zQK0rdvjdWL4li__TJPRDTBa4b_WxcQt7cwOhAiKDZA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-224/stream.mpd?p=web
@@ -19,7 +27,7 @@ https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-224/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci01NDIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiMnYzZHFfRzFOaHZUN0xXWXFIcXNDc1cwMDJrZWFqeHFsanVIUlFnSTZUYyIsImlhdCI6MTc5MjUzNDU1NSwiZXhwIjoxNzkyNjIwOTU1fQ.Evb7LnMLTa595S-vchg4xOO02VQzrBnG7ihQoPDY9ek
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci01NDIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiSkpZSzI0Q1FIWVlnWGVheXJ3V1dEMENyaEltdFltVHdmWUJTaktTbVJySSIsImlhdCI6MTc5MjUzNDY0MiwiZXhwIjoxNzkyNjIxMDQyfQ.rIEiFFGOpgb3Ve9Y_5u20ukgh5ZhDAvOOOzMhSLBbYk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-542/stream.mpd?p=web
@@ -27,7 +35,7 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-542/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a55a7dfd59cb534992d19aa8e66e0ab9:c10a80c5e369338af6819bd9bd77399e
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMTgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiMnYzZHFfRzFOaHZUN0xXWXFIcXNDc1cwMDJrZWFqeHFsanVIUlFnSTZUYyIsImlhdCI6MTc5MjUzNDU1NiwiZXhwIjoxNzkyNjIwOTU2fQ.xw5dHqq-12_xZNS1RuHBNjDzKJLQOY51Aupg0VnljS8
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMTgiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiSkpZSzI0Q1FIWVlnWGVheXJ3V1dEMENyaEltdFltVHdmWUJTaktTbVJySSIsImlhdCI6MTc5MjUzNDY0MywiZXhwIjoxNzkyNjIxMDQzfQ.0JsJRaOyfY4I-XuuZj46s2hK3mOtH0kvqDHooXqzr-Y
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-218/stream.mpd?p=web
@@ -35,15 +43,15 @@ https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-218/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=77f46b0cecfa5d3e930b6b679899372b:30152efcbbfb69f661c8432dcb3da165
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMTkiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiMnYzZHFfRzFOaHZUN0xXWXFIcXNDc1cwMDJrZWFqeHFsanVIUlFnSTZUYyIsImlhdCI6MTc5MjUzNDU1NywiZXhwIjoxNzkyNjIwOTU3fQ.5szma9bNGeCx2YnAxuSuRbggufV6tMCGSlUrzO85mH4
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTI2MjEwNDMsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiYTgyMzljN2IwMmIzY2I1ODM2OTgyZDM1MTc0OGVkZGFhNzEzOGQ4OSIsInNzaWQiOiJiZmU3NTkyNTNhZGQiLCJwcm90byI6ImRhc2giLCJnZW8iOiJlcyIsImFzbiI6WyIxMzMzNSJdLCJ1YSI6ImI2NWQ0MjUxYzhlNjJjOTVmOTE3ZTAyNjVkOWUxYzQ5YTA4ZWU3YzUiLCJpYXQiOjE3OTI1MzQ2NDN9.n_YNR77GKaJkCcuYaLvfQJCTKCTNDxiunpQPVofBsAE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
-https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-219/stream.mpd?p=web
+https://dcs-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-219/stream.mpd?p=web
 #EXTINF:-1 tvg-id="lt8rbplids01jye6xz360b8y" tvg-name="NFL Network: Live 24/7 Coverage" group-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/a-f/daznoriginalses/logos/channels-logo-white._CB578849766_.png" tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/lt8rbplids01jye6xz360b8y_image-header_pEs_1711624423000/fill/center/top/none/80/1920/1083/png/image?brand=dazn" group-title="DAZN Canales 🇮🇹",NFL Network: Live 24/7 Coverage
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d91b5dc41ef85a25883ca47efb3c6641:5fa7e0ff1e379a83e44005917e3af5f2
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDUiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiMnYzZHFfRzFOaHZUN0xXWXFIcXNDc1cwMDJrZWFqeHFsanVIUlFnSTZUYyIsImlhdCI6MTc5MjUzNDU1NywiZXhwIjoxNzkyNjIwOTU3fQ.MHzcVHPgPf7JcrCTViqRF7nIDfrknrqAX7jONs4w2N8
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDUiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiSkpZSzI0Q1FIWVlnWGVheXJ3V1dEMENyaEltdFltVHdmWUJTaktTbVJySSIsImlhdCI6MTc5MjUzNDY0NCwiZXhwIjoxNzkyNjIxMDQ0fQ.N2ovgkOmi606YBW7KJEl7HH3KDYbaCZg4JcVHvz_jI0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-205/stream.mpd?p=web
@@ -51,7 +59,7 @@ https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-205/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5912d48e2b915caf9ae5ab0c3df9aae1":"7b8a244c697735202591656b052eafba"}
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMTciXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiMnYzZHFfRzFOaHZUN0xXWXFIcXNDc1cwMDJrZWFqeHFsanVIUlFnSTZUYyIsImlhdCI6MTc5MjUzNDU1NywiZXhwIjoxNzkyNjIwOTU3fQ.EWddIxdwmmC-S7M_14tt87QpOS_1xdtT86l_xMozVWY
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMTciXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiSkpZSzI0Q1FIWVlnWGVheXJ3V1dEMENyaEltdFltVHdmWUJTaktTbVJySSIsImlhdCI6MTc5MjUzNDY0NCwiZXhwIjoxNzkyNjIxMDQ0fQ.lUTW8s3pLvczCfHdFwcNQVQqH_K4uQHM3x-kK7gdkIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-217/stream.mpd?p=web
@@ -59,7 +67,7 @@ https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-217/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci01MjIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxNTcwNCJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiMnYzZHFfRzFOaHZUN0xXWXFIcXNDc1cwMDJrZWFqeHFsanVIUlFnSTZUYyIsImlhdCI6MTc5MjUzNDU1OCwiZXhwIjoxNzkyNjIwOTU4fQ.IZPZ5ZDxGHfO_-J1ZwnhWZXWUIW_BGX0Tyj30zZuBqk
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci01MjIiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMzMzNSJdLCJzc2lkIjoiYmZlNzU5MjUzYWRkIiwicHJvdG8iOiJkYXNoIiwiaW50c2lnIjoiSkpZSzI0Q1FIWVlnWGVheXJ3V1dEMENyaEltdFltVHdmWUJTaktTbVJySSIsImlhdCI6MTc5MjUzNDY0NSwiZXhwIjoxNzkyNjIxMDQ1fQ.XToU29Gpj-4t-D-5S-MnyLvrQAolSwJLmSWUP2LJ5jM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dazn.com/
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-522/stream.mpd?p=web
