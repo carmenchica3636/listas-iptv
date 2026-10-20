@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="11013" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=cd45423370329c6c60f6a54bb7303541_1792523453_1792480268
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e0.cdne.orangetv.orange.es/session/6348f116-cc55-11f1-9884-9418827aabde$h1.0$orange/cd7guw/cmaf/r12_movistarlaligatm/dash_medium.mpd?token=cd45423370329c6c60f6a54bb7303541_1792523453_1792480268&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11227" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga HDR" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga HDR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=5bacd87758b0781f6d2ecf3c2e4d4b2f_1792523456_1792480271
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e0.cdne.orangetv.orange.es/session/65307e72-cc55-11f1-8b0e-20677cd29f5e$h1.0$orange/cd7guw/cmaf/r12_movistarlaligahdrtm/dash_medium.mpd?token=5bacd87758b0781f6d2ecf3c2e4d4b2f_1792523456_1792480271&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11026" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=6589150f9a031f20ddbbe9b5442dbaec_1792523459_1792480274
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e1.cdne.orangetv.orange.es/session/671aaf8c-cc55-11f1-a2f8-20677cd30eca$h1.0$orange/cd7guw/cmaf/r12_movistarlaliga2/dash_medium.mpd?token=6589150f9a031f20ddbbe9b5442dbaec_1792523459_1792480274&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11228" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga 2 HDR" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga 2 HDR
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=022dd0fbab7a69edafc4350045bbeb61_1792523463_1792480278
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e0.cdne.orangetv.orange.es/session/68fb8eb6-cc55-11f1-a2f8-20677cd30eca$h1.0$orange/cd7guw/cmaf/r12_movistarlaliga2hdrtm/dash_medium.mpd?token=022dd0fbab7a69edafc4350045bbeb61_1792523463_1792480278&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="1057" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar LaLiga 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MLIGA",Movistar LaLiga 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=47485af3e11f9611377c285d25f6a803_1792523466_1792480281
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e1.cdne.orangetv.orange.es/session/6add29ce-cc55-11f1-a2f8-20677cd30eca$h1.0$orange/cd7guw/cmaf/r12_movistarlaliga3/dash_medium.mpd?token=47485af3e11f9611377c285d25f6a803_1792523466_1792480281&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="1023" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MCAMPEONES",Movistar Campeones
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=a0a5904427deddb7c6836632dadf7535_1792523469_1792480284
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e1.cdne.orangetv.orange.es/session/6cc4721a-cc55-11f1-a2f8-20677cd30eca$h1.0$orange/cd7guw/cmaf/r12_movistarligadecampeonestm/dash_medium.mpd?token=a0a5904427deddb7c6836632dadf7535_1792523469_1792480284&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="1050" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MCAMPEONES",Movistar Campeones 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=1dc638b8021ce764972d62d4b49cef11_1792523472_1792480287
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e0.cdne.orangetv.orange.es/session/6eaaf568-cc55-11f1-8b0e-20677cd29f5e$h1.0$orange/cd7guw/cmaf/r12_movistarligadecampeones2tm/dash_medium.mpd?token=1dc638b8021ce764972d62d4b49cef11_1792523472_1792480287&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="1051" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar Liga Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MCAMPEONES",Movistar Liga Campeones 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=46d723108ff1b781f635880b2de73260_1792523475_1792480290
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e0.cdne.orangetv.orange.es/session/708d18c0-cc55-11f1-a2f8-20677cd30eca$h1.0$orange/cd7guw/cmaf/r12_movistarligadecampeones3tm/dash_medium.mpd?token=46d723108ff1b781f635880b2de73260_1792523475_1792480290&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="1052" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Movistar Liga Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/canal/MCAMPEONES",Movistar Liga Campeones 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=92617c0c5895f505f64cb19206a54ab0_1792523478_1792480293
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e1.cdne.orangetv.orange.es/session/726b530a-cc55-11f1-9bf2-9418827aabde$h1.0$orange/cd7guw/cmaf/r12_movistarligadecampeones4/dash_medium.mpd?token=92617c0c5895f505f64cb19206a54ab0_1792523478_1792480293&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11077" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="DAZN LaLiga" tvg-logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_1/contain/center/center/none/80/85/70/png/image?brand=dazn",DAZN LaLiga
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
+#EXTVLCOPT:http-header=x-tcdn-token=5243459118b7ecc273e761da808df0ca_1792523482_1792480297
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e0.cdne.orangetv.orange.es/session/744b3a8c-cc55-11f1-b631-20677cd30e3e$h1.0$orange/cd7guw/cmaf/r12_daznlaligatm/dash_medium.mpd?token=5243459118b7ecc273e761da808df0ca_1792523482_1792480297&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11080" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="DAZN LaLiga 2" tvg-logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_2/contain/center/center/none/80/85/70/png/image?brand=dazn",DAZN LaLiga 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
+#EXTVLCOPT:http-header=x-tcdn-token=222fd101c0992a8719931edfc4536ce4_1792523485_1792480300
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e1.cdne.orangetv.orange.es/session/76287cac-cc55-11f1-8b0e-20677cd29f5e$h1.0$orange/cd7guw/cmaf/r12_daznlaliga2tm/dash_medium.mpd?token=222fd101c0992a8719931edfc4536ce4_1792523485_1792480300&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11231" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="DAZN ACB 1" tvg-logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_1/contain/center/center/none/80/85/70/png/image?brand=dazn",DAZN ACB 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
+#EXTVLCOPT:http-header=x-tcdn-token=234c3b5cdaf6b7d9b9b6327bf8a78867_1792523488_1792480303
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e1.cdne.orangetv.orange.es/session/782bf542-cc55-11f1-9bf2-9418827aabde$h1.0$orange/cd7guw/cmaf/r12_dazn-acb1-res-tm/dash_medium.mpd?token=234c3b5cdaf6b7d9b9b6327bf8a78867_1792523488_1792480303&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11232" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="DAZN ACB 2" tvg-logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_2/contain/center/center/none/80/85/70/png/image?brand=dazn",DAZN ACB 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
+#EXTVLCOPT:http-header=x-tcdn-token=ccf41df379eb757de695c10cc6e6cfde_1792523491_1792480306
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e1.cdne.orangetv.orange.es/session/7a0f693e-cc55-11f1-b631-20677cd30e3e$h1.0$orange/cd7guw/cmaf/r12_dazn-acb2-res-tm/dash_medium.mpd?token=ccf41df379eb757de695c10cc6e6cfde_1792523491_1792480306&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11270" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="DAZN ACB 3" tvg-logo="https://image.discovery.indazn.com/eu/v3/linear-channel/none/Logo_LTV_DAZN_3/contain/center/center/none/80/85/70/png/image?brand=dazn",DAZN ACB 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=61e9a16fd7fa4679cb51c81fcaa8729f:92999f97ff4ee6ec52a60d490fb3f14c
+#EXTVLCOPT:http-header=x-tcdn-token=b5445d6172b75976970f28388ba2d927_1792523494_1792480309
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e1.cdne.orangetv.orange.es/session/7bec6a22-cc55-11f1-b631-20677cd30e3e$h1.0$orange/cd7guw/cmaf/r12_dazn-acb3-res-tm/dash_medium.mpd?token=b5445d6172b75976970f28388ba2d927_1792523494_1792480309&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11083" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="LaLiga SmartBank" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartBank.png",LaLiga SmartBank
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0224b135f2f9502afff9cb33551c0881:511705882bd08aca4e1a128a7d9ba813
+#EXTVLCOPT:http-header=x-tcdn-token=03290ea03c3e72ed1b224ee41bd86936_1792523498_1792480313
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e1.cdne.orangetv.orange.es/session/7dd898a6-cc55-11f1-a2f8-20677cd30eca$h1.0$orange/cd7guw/cmaf/r12_laligahypermotiontm/dash_medium.mpd?token=03290ea03c3e72ed1b224ee41bd86936_1792523498_1792480313&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11084" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="LaLiga Hypermotion" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20Hypermotion.png",LaLiga Hypermotion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0224b135f2f9502afff9cb33551c0881:511705882bd08aca4e1a128a7d9ba813
+#EXTVLCOPT:http-header=x-tcdn-token=d898e508c68da4892715fcfbd1ecba32_1792523501_1792480316
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e1.cdne.orangetv.orange.es/session/7fb78448-cc55-11f1-b631-20677cd30e3e$h1.0$orange/cd7guw/cmaf/r12_laligahypermotion2/dash_medium.mpd?token=d898e508c68da4892715fcfbd1ecba32_1792523501_1792480316&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11230" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Liga Primera RFEF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20RFEF.png",Liga Primera RFEF
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0224b135f2f9502afff9cb33551c0881:511705882bd08aca4e1a128a7d9ba813
+#EXTVLCOPT:http-header=x-tcdn-token=871d974cfaa8abe9c94d8c81e1a674b3_1792523504_1792480319
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e0.cdne.orangetv.orange.es/session/819a9e1c-cc55-11f1-9bf2-9418827aabde$h1.0$orange/cd7guw/cmaf/r12_laligaprimerarfef/dash_medium.mpd?token=871d974cfaa8abe9c94d8c81e1a674b3_1792523504_1792480319&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="11031" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="GOL" tvg-logo="",GOL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=212e30294079e6387a9a5f79da77a95b_1792523507_1792480322
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src70e1.cdne.orangetv.orange.es/session/837ebb14-cc55-11f1-9bf2-9418827aabde$h1.0$orange/cd7guw/cmaf/r12_gol/dash_medium.mpd?token=212e30294079e6387a9a5f79da77a95b_1792523507_1792480322&cid=163273420&did=197633200
+
+#EXTINF:-1 tvg-id="1063" group-logo="https://futbolenlatelevision.com/wp-content/uploads/2018/03/futbol.jpg" group-title="DEPORTES" tvg-name="Teledeporte" tvg-logo="",Teledeporte
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+#EXTVLCOPT:http-header=x-tcdn-token=10780a3019f8025267543d9c6d748564_1792523510_1792480325
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://vx8460-src71e1.cdne.orangetv.orange.es/session/85645b14-cc55-11f1-9bf2-9418827aabde$h1.0$orange/cd7guw/cmaf/r11_tdphd/dash_medium.mpd?token=10780a3019f8025267543d9c6d748564_1792523510_1792480325&cid=163273420&did=197633200
+
