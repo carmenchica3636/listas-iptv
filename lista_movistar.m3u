@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TVE" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="LA 1" tvg-logo="",LA 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jEIEhgVDTZivTrJKSEK9AA","k":"ebW680Jytm1mnzpnS4qSXA"},{"kty":"oct","kid":"3pBbSqtGSbSWV3Ywjpqvbg","k":"COv3KD37ipvICHrSLdPCaA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"3pBbSqtGSbSWV3Ywjpqvbg","k":"COv3KD37ipvICHrSLdPCaA"},{"kty":"oct","kid":"jEIEhgVDTZivTrJKSEK9AA","k":"ebW680Jytm1mnzpnS4qSXA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -12,7 +12,7 @@ https://tvela1-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="LA2" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="LA 2" tvg-logo="",LA 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"L8YtHkp1SsyOiN_KGAnDmA","k":"wAgX-itS_MfpnfDnnYO-Dw"},{"kty":"oct","kid":"IxIwgcc6QyijIDzwiAgemg","k":"uNetzoGgOqrP_tiVWinWhA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IxIwgcc6QyijIDzwiAgemg","k":"uNetzoGgOqrP_tiVWinWhA"},{"kty":"oct","kid":"L8YtHkp1SsyOiN_KGAnDmA","k":"wAgX-itS_MfpnfDnnYO-Dw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -22,7 +22,7 @@ https://la2-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="A3" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Antena 3" tvg-logo="",Antena 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"AnKmsrFcSD-4sL296O2XBw","k":"FTTo050WRyMpg9m9yOn2Bg"},{"kty":"oct","kid":"b-jgAfFLQ9CxvW6BEO6UkA","k":"ckbF07ruE-JWEob3cKRAUg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b-jgAfFLQ9CxvW6BEO6UkA","k":"ckbF07ruE-JWEob3cKRAUg"},{"kty":"oct","kid":"AnKmsrFcSD-4sL296O2XBw","k":"FTTo050WRyMpg9m9yOn2Bg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -72,7 +72,7 @@ https://mplus-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="VAMOSD" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Vamos" tvg-logo="",M+ Vamos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OuXCPeMJRUOtZO5o04PKCQ","k":"AglMUpYuWxg_1aeoBmUelQ"},{"kty":"oct","kid":"NCabsD6aTEi0yZHdTO8S7Q","k":"dJYfhq-hQsbpiJIMbyrDXA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NCabsD6aTEi0yZHdTO8S7Q","k":"dJYfhq-hQsbpiJIMbyrDXA"},{"kty":"oct","kid":"OuXCPeMJRUOtZO5o04PKCQ","k":"AglMUpYuWxg_1aeoBmUelQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -132,7 +132,7 @@ https://1popup-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MDOC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Documentales" tvg-logo="",M+ Documentales
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"q06ca_QSRo6tIXE2IYakAQ","k":"G81ObyGUYDzpmcp0xVW9Ow"},{"kty":"oct","kid":"A77Kx_ryR4qOSHsBK3Qopg","k":"iEuXhpIpbUZUGnT9UclPUg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"A77Kx_ryR4qOSHsBK3Qopg","k":"iEuXhpIpbUZUGnT9UclPUg"},{"kty":"oct","kid":"q06ca_QSRo6tIXE2IYakAQ","k":"G81ObyGUYDzpmcp0xVW9Ow"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -142,7 +142,7 @@ https://mdocumentales-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MROMA" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Romance" tvg-logo="",M+ Romance
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vsjtXHEGR1-kLnHMbAXTOQ","k":"nguM6ILuZ1p6Hol7KWC5ZA"},{"kty":"oct","kid":"Q42EAC98RXiWcSwNz1EAyg","k":"RlkKVniAipY47ASBGLIjFw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Q42EAC98RXiWcSwNz1EAyg","k":"RlkKVniAipY47ASBGLIjFw"},{"kty":"oct","kid":"vsjtXHEGR1-kLnHMbAXTOQ","k":"nguM6ILuZ1p6Hol7KWC5ZA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -162,7 +162,7 @@ https://mclasicos-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CPACCI" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Acción" tvg-logo="",M+ Acción
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"iBtoO71FTT-AYCTNe1P8lQ","k":"cwYh5wZzI3cDohJ6dnHbuQ"},{"kty":"oct","kid":"-NzjpRzATQeerT7qBBYi2Q","k":"ZKTkglOV9hl8tKrymkuRqA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-NzjpRzATQeerT7qBBYi2Q","k":"ZKTkglOV9hl8tKrymkuRqA"},{"kty":"oct","kid":"iBtoO71FTT-AYCTNe1P8lQ","k":"cwYh5wZzI3cDohJ6dnHbuQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -232,7 +232,7 @@ https://01sky-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="FLIX1" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Canal FlixOlé 1" tvg-logo="",Canal FlixOlé 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_eK4wg8UT4yY07a1CqVddQ","k":"6Q24F0neBhbeR0tWQSGr4A"},{"kty":"oct","kid":"RXsVmXCVSyOk58bhYujY5Q","k":"ldUEkC9a5yMc6Ug73JXmXA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RXsVmXCVSyOk58bhYujY5Q","k":"ldUEkC9a5yMc6Ug73JXmXA"},{"kty":"oct","kid":"_eK4wg8UT4yY07a1CqVddQ","k":"6Q24F0neBhbeR0tWQSGr4A"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -242,7 +242,7 @@ https://1flixole-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="FLIX2" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Canal FlixOlé 2" tvg-logo="",Canal FlixOlé 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fbcWauMjQfuuwiJ4KElaKg","k":"RWm-ELWLsFNyeoDsR16e2w"},{"kty":"oct","kid":"F2h8Xsm9RDOT2zIV3qqk3Q","k":"4QHp1gJgqerW3w4H8lK4qw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"F2h8Xsm9RDOT2zIV3qqk3Q","k":"4QHp1gJgqerW3w4H8lK4qw"},{"kty":"oct","kid":"fbcWauMjQfuuwiJ4KElaKg","k":"RWm-ELWLsFNyeoDsR16e2w"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -322,7 +322,7 @@ https://01star-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="AXN" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="AXN" tvg-logo="",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"aNhl60YHT2K7CII4Fvlzuw","k":"ZqjxhuIBObO3TNGohT6vdw"},{"kty":"oct","kid":"FaTKlPPKTC-WoFm58pAykA","k":"egzBx7LPAGI6sQNkkvgXNQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FaTKlPPKTC-WoFm58pAykA","k":"egzBx7LPAGI6sQNkkvgXNQ"},{"kty":"oct","kid":"aNhl60YHT2K7CII4Fvlzuw","k":"ZqjxhuIBObO3TNGohT6vdw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -362,7 +362,7 @@ https://calle13-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="COSMO" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="COSMO" tvg-logo="",COSMO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eVRj2QP4Sg6kwSjElqx1XQ","k":"VeBLr-FOeMfwvzjVmMs9ug"},{"kty":"oct","kid":"WXrWFRasRMWSWozOBrnX6w","k":"BGH7f5hJ-_myaS8qmwZOTw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WXrWFRasRMWSWozOBrnX6w","k":"BGH7f5hJ-_myaS8qmwZOTw"},{"kty":"oct","kid":"eVRj2QP4Sg6kwSjElqx1XQ","k":"VeBLr-FOeMfwvzjVmMs9ug"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -372,7 +372,7 @@ https://cosmo-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="SCI-FI" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="SYFY" tvg-logo="",SYFY
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eoA0JxFEQUm7OV63mXDvjw","k":"VIUkkGSO6zxtTHMRQ8Ebdg"},{"kty":"oct","kid":"g0rM1CH3R_O1FUDPM9re2Q","k":"NyN7tfmSrJMNIC4vw_hsTg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"g0rM1CH3R_O1FUDPM9re2Q","k":"NyN7tfmSrJMNIC4vw_hsTg"},{"kty":"oct","kid":"eoA0JxFEQUm7OV63mXDvjw","k":"VIUkkGSO6zxtTHMRQ8Ebdg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -442,7 +442,7 @@ https://a3series-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="VAM2SD" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Vamos 2" tvg-logo="",M+ Vamos 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vjyDb-BxRPa56ByA3Cv5Ew","k":"rIroj6cmpjKMwJIXVYDHhA"},{"kty":"oct","kid":"lqFN_kjGSoulcGXF8f-sow","k":"A4PoTgH7IAtOfZJHVkuu-g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"lqFN_kjGSoulcGXF8f-sow","k":"A4PoTgH7IAtOfZJHVkuu-g"},{"kty":"oct","kid":"vjyDb-BxRPa56ByA3Cv5Ew","k":"rIroj6cmpjKMwJIXVYDHhA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -472,7 +472,7 @@ https://01coparey-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MLIGA" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ LALIGA" tvg-logo="",M+ LALIGA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"n8oKuG0iQ-Oh9hC9wL_V2Q","k":"g4I38jFO_43dyN_4tTPkDA"},{"kty":"oct","kid":"rCF5eTgJREmRfRjtKjArbQ","k":"9WsA2eirxnh3-DZFc0kk2g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rCF5eTgJREmRfRjtKjArbQ","k":"9WsA2eirxnh3-DZFc0kk2g"},{"kty":"oct","kid":"n8oKuG0iQ-Oh9hC9wL_V2Q","k":"g4I38jFO_43dyN_4tTPkDA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -482,7 +482,7 @@ https://mlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="DAZNLI" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN LALIGA" tvg-logo="",DAZN LALIGA
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"pVMl61wYQ5ulWi3JmYU9qA","k":"R-zh9J62bRen6CqeaEYa6A"},{"kty":"oct","kid":"-9uuUzVKQ5GL3RVSMnK59A","k":"SQuQsRKCqh9zws7tdVh1mg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-9uuUzVKQ5GL3RVSMnK59A","k":"SQuQsRKCqh9zws7tdVh1mg"},{"kty":"oct","kid":"pVMl61wYQ5ulWi3JmYU9qA","k":"R-zh9J62bRen6CqeaEYa6A"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -492,7 +492,7 @@ https://01ligdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MLIGS" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="",LALIGA TV HYPERMOTION
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1oQM9TCaROeVqmz4yNiU4w","k":"RFXmgUUdkAtwnrQKFZOpsw"},{"kty":"oct","kid":"MU5ecq81SjeHje-b2uCXUQ","k":"5aTBxH6MEpPUpR_L9R9T2A"},{"kty":"oct","kid":"4OGQ2_w-TuWUKewoJ-VZBQ","k":"ZPGIJ6xfktPJUDUpe4NpOQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"4OGQ2_w-TuWUKewoJ-VZBQ","k":"ZPGIJ6xfktPJUDUpe4NpOQ"},{"kty":"oct","kid":"1oQM9TCaROeVqmz4yNiU4w","k":"RFXmgUUdkAtwnrQKFZOpsw"},{"kty":"oct","kid":"MU5ecq81SjeHje-b2uCXUQ","k":"5aTBxH6MEpPUpR_L9R9T2A"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -512,7 +512,7 @@ https://2liga-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="DAZNL2" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN LALIGA 2" tvg-logo="",DAZN LALIGA 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UgaUpS3zR4-ksqQpa7o1NA","k":"LvoXrmPvg8wCG86k9SmRvg"},{"kty":"oct","kid":"W5cvqI0KRouuo5jbvFBcRg","k":"5hrkZ0Y05jNzGeoLhKOUrA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"W5cvqI0KRouuo5jbvFBcRg","k":"5hrkZ0Y05jNzGeoLhKOUrA"},{"kty":"oct","kid":"UgaUpS3zR4-ksqQpa7o1NA","k":"LvoXrmPvg8wCG86k9SmRvg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -522,7 +522,7 @@ https://02ligdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MLIGS2" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="",LALIGA TV HYPERMOTION 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"uILuhY4oSueHLWjj2sDuxA","k":"5zozux6J9e30xLnJ_BcU8A"},{"kty":"oct","kid":"QOV6OXZ_QoaYjdBhc9D7eg","k":"M9F9HhCIVbpytnwscYy71g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"QOV6OXZ_QoaYjdBhc9D7eg","k":"M9F9HhCIVbpytnwscYy71g"},{"kty":"oct","kid":"uILuhY4oSueHLWjj2sDuxA","k":"5zozux6J9e30xLnJ_BcU8A"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -532,7 +532,7 @@ https://2segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CHAPIO" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Liga de Campeones" tvg-logo="",M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EVEHTpOHTjaUZwe5S951Hw","k":"uvQi2yYocgK9R1nEp2qPkg"},{"kty":"oct","kid":"kzQyZx9lRueCdbTo94ovYw","k":"_H56PkgrwzAZEuNdcRRdIw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"kzQyZx9lRueCdbTo94ovYw","k":"_H56PkgrwzAZEuNdcRRdIw"},{"kty":"oct","kid":"EVEHTpOHTjaUZwe5S951Hw","k":"uvQi2yYocgK9R1nEp2qPkg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -542,7 +542,7 @@ https://mligacampeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CHAP1" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Liga de Campeones 2" tvg-logo="",M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"x4kFGpXYReGT4e0Vl4x8LQ","k":"QLCFbdF0_wEYNuDs4QuelA"},{"kty":"oct","kid":"J2awqdKvS7OP8z70QhTccw","k":"Xbb5rKWa6x6nYG4-IHzwmw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"J2awqdKvS7OP8z70QhTccw","k":"Xbb5rKWa6x6nYG4-IHzwmw"},{"kty":"oct","kid":"x4kFGpXYReGT4e0Vl4x8LQ","k":"QLCFbdF0_wEYNuDs4QuelA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -562,7 +562,7 @@ https://03campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CPDEP" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Deportes" tvg-logo="",M+ Deportes
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Mjwt_h_cTECdHy-5xtGMmA","k":"ShAPfIoG8X_akO0Hb2p98g"},{"kty":"oct","kid":"0CawMFaYTbar2lcIJnH6JQ","k":"xGQ1MV-sQXPoKD4585nXRg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"0CawMFaYTbar2lcIJnH6JQ","k":"xGQ1MV-sQXPoKD4585nXRg"},{"kty":"oct","kid":"Mjwt_h_cTECdHy-5xtGMmA","k":"ShAPfIoG8X_akO0Hb2p98g"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -582,7 +582,7 @@ https://2multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="USOP2" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Deportes 3" tvg-logo="",M+ Deportes 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9V3poQHhQnS_uIJmV0F4pA","k":"RsG6dMyB4JDJSfxlX1AR8Q"},{"kty":"oct","kid":"32f_KUBAQSCNb0YeX7My0w","k":"7BKU5c3kFYU98eWHmObjsg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"32f_KUBAQSCNb0YeX7My0w","k":"7BKU5c3kFYU98eWHmObjsg"},{"kty":"oct","kid":"9V3poQHhQnS_uIJmV0F4pA","k":"RsG6dMyB4JDJSfxlX1AR8Q"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -592,7 +592,7 @@ https://3multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MBALCT" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Baloncesto" tvg-logo="",M+ Baloncesto
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"NlfLD3UjT0-xRh8XneSe3w","k":"oRy_76vKZw06ZmEvcBzyQw"},{"kty":"oct","kid":"HokIr-kyTAGzT5aN7R0BUQ","k":"HJnTj_3YYOPoncGpvUGbrA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"HokIr-kyTAGzT5aN7R0BUQ","k":"HJnTj_3YYOPoncGpvUGbrA"},{"kty":"oct","kid":"NlfLD3UjT0-xRh8XneSe3w","k":"oRy_76vKZw06ZmEvcBzyQw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -622,7 +622,7 @@ https://mgolf-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="GOLF2" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Golf 2" tvg-logo="",M+ Golf 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Rwr03eo9RPiqF5Z411pauQ","k":"8ogmSVyprwt7153TlHw9-g"},{"kty":"oct","kid":"w-YCTE6LQQ6s3J6KTJIcBA","k":"Ht_cdzZdoC9AKACZp80RAQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"w-YCTE6LQQ6s3J6KTJIcBA","k":"Ht_cdzZdoC9AKACZp80RAQ"},{"kty":"oct","kid":"Rwr03eo9RPiqF5Z411pauQ","k":"8ogmSVyprwt7153TlHw9-g"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -632,7 +632,7 @@ https://2golf-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MVF1" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN F1" tvg-logo="",DAZN F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"An9ParnvQLOUOkf92Z86bA","k":"IsaRrdJnO9Ty9VUcUwC1Dg"},{"kty":"oct","kid":"UgdQf6KsS-KieeDTd_Sh0w","k":"tbASqKK4T4Nuq11r979B2g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"UgdQf6KsS-KieeDTd_Sh0w","k":"tbASqKK4T4Nuq11r979B2g"},{"kty":"oct","kid":"An9ParnvQLOUOkf92Z86bA","k":"IsaRrdJnO9Ty9VUcUwC1Dg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -642,7 +642,7 @@ https://formula1-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="DAZMOT" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN MotoGP" tvg-logo="",DAZN MotoGP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fTRM-aWRQViGQNeFiUfW-Q","k":"EC6e4rQPyU9N28wU_zXxnQ"},{"kty":"oct","kid":"rswKhG4jQBSNEJGinRT3PA","k":"Ab-9a9Jpb9AZ5eg5_D2EDw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rswKhG4jQBSNEJGinRT3PA","k":"Ab-9a9Jpb9AZ5eg5_D2EDw"},{"kty":"oct","kid":"fTRM-aWRQViGQNeFiUfW-Q","k":"EC6e4rQPyU9N28wU_zXxnQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -652,7 +652,7 @@ https://1motodazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="M1SD" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN 1" tvg-logo="",DAZN 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rFwsPgd8RAKlqCpzx-c6PQ","k":"I2p9rMbNtdt8wB_xtm9eUQ"},{"kty":"oct","kid":"iVzLseW9SuK8Wg5WE8jbrg","k":"etsN41swBxv8JKRasQx0yA"},{"kty":"oct","kid":"zVLlDxb7QxKJ_-cILN8AYg","k":"vrG1yapCCe01Qvhh2VRAMw"},{"kty":"oct","kid":"CR2ZYpe-SZiulAVhdGPvoQ","k":"Jtlbnp4diLSSyFfOo2Za-g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"iVzLseW9SuK8Wg5WE8jbrg","k":"etsN41swBxv8JKRasQx0yA"},{"kty":"oct","kid":"rFwsPgd8RAKlqCpzx-c6PQ","k":"I2p9rMbNtdt8wB_xtm9eUQ"},{"kty":"oct","kid":"CR2ZYpe-SZiulAVhdGPvoQ","k":"Jtlbnp4diLSSyFfOo2Za-g"},{"kty":"oct","kid":"zVLlDxb7QxKJ_-cILN8AYg","k":"vrG1yapCCe01Qvhh2VRAMw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -662,7 +662,7 @@ https://01dazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="M2SD" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN 2" tvg-logo="",DAZN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-W0dFGepSQWwVtWcfCzH-A","k":"kjOOYmKhzrZ3tcMtIYYKKg"},{"kty":"oct","kid":"q3cUR63xQR2VgpDrMF-WZg","k":"aJDQLo10mHzc6rr7j5NSJw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"q3cUR63xQR2VgpDrMF-WZg","k":"aJDQLo10mHzc6rr7j5NSJw"},{"kty":"oct","kid":"-W0dFGepSQWwVtWcfCzH-A","k":"kjOOYmKhzrZ3tcMtIYYKKg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -672,7 +672,7 @@ https://02dazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="DAZBA" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN Baloncesto" tvg-logo="",DAZN Baloncesto
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"15oa4Z0fQbeCi3_MLRX8PA","k":"e1chSob2UDI-FZC1nM5qig"},{"kty":"oct","kid":"rWMgDTsNQPaP8WEpNZbO2Q","k":"ma9uvQj4HkWy5iCJ0c44_Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rWMgDTsNQPaP8WEpNZbO2Q","k":"ma9uvQj4HkWy5iCJ0c44_Q"},{"kty":"oct","kid":"15oa4Z0fQbeCi3_MLRX8PA","k":"e1chSob2UDI-FZC1nM5qig"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -682,7 +682,7 @@ https://1basketdazn-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="DAZB2" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN Baloncesto 2" tvg-logo="",DAZN Baloncesto 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BP8lEnZDQHCA-nzYionLfA","k":"kTZXrg5sNB3JVqliYejwqw"},{"kty":"oct","kid":"7uiydWGvQH-C0xG0RN8sMg","k":"vWisPUwWSO5Errznan7zXg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"7uiydWGvQH-C0xG0RN8sMg","k":"vWisPUwWSO5Errznan7zXg"},{"kty":"oct","kid":"BP8lEnZDQHCA-nzYionLfA","k":"kTZXrg5sNB3JVqliYejwqw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -722,7 +722,7 @@ https://eurosport2-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="GOL" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="GOL" tvg-logo="",GOL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C7F1YYqHQ2Kc8YpoMPb2ug","k":"MMmWXnlKLyOaJrhQ-8MTyA"},{"kty":"oct","kid":"kowMT-aXSIyvUi7Lx6OIJQ","k":"UmXmryIvhfUj6mRrg-ijYg"},{"kty":"oct","kid":"2om-yYU3Q1GWqjz9ea0tmA","k":"vAzbJXfRYjNwYljWXfCIMQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2om-yYU3Q1GWqjz9ea0tmA","k":"vAzbJXfRYjNwYljWXfCIMQ"},{"kty":"oct","kid":"kowMT-aXSIyvUi7Lx6OIJQ","k":"UmXmryIvhfUj6mRrg-ijYg"},{"kty":"oct","kid":"C7F1YYqHQ2Kc8YpoMPb2ug","k":"MMmWXnlKLyOaJrhQ-8MTyA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -832,7 +832,7 @@ https://foodbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="BBCLIF" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="BBC Lifestyle" tvg-logo="",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"eudVR9MTQ-e36zYv8If6tQ","k":"sgSep4Tc4K4JC6LZNpFF4Q"},{"kty":"oct","kid":"1S16Uwp_SAma-rgxBp7-2g","k":"tJAjxBelX-hy3FimLdQRqQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1S16Uwp_SAma-rgxBp7-2g","k":"tJAjxBelX-hy3FimLdQRqQ"},{"kty":"oct","kid":"eudVR9MTQ-e36zYv8If6tQ","k":"sgSep4Tc4K4JC6LZNpFF4Q"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -852,7 +852,7 @@ https://dkiss-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="DIVINI" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Divinity" tvg-logo="",Divinity
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LG4YEosvQbyL84iU6AvonQ","k":"UE_pfV6O0inGyrWpCReT3w"},{"kty":"oct","kid":"OkOIdGdoQ8OeYtr8KOlNVw","k":"o4VQ3dRZVlQPtCxW6rjl8w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"OkOIdGdoQ8OeYtr8KOlNVw","k":"o4VQ3dRZVlQPtCxW6rjl8w"},{"kty":"oct","kid":"LG4YEosvQbyL84iU6AvonQ","k":"UE_pfV6O0inGyrWpCReT3w"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -902,7 +902,7 @@ https://babytv-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="PLAYDC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Disney Channel" tvg-logo="",Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Yhf7qa27RDif98ealYHnww","k":"06m7mlrS1n8LfZq7FuwHAw"},{"kty":"oct","kid":"76r6-rvUTNKFJIu6QU3s_A","k":"XK9sqK-ys6U4uvp6n81Apw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"76r6-rvUTNKFJIu6QU3s_A","k":"XK9sqK-ys6U4uvp6n81Apw"},{"kty":"oct","kid":"Yhf7qa27RDif98ealYHnww","k":"06m7mlrS1n8LfZq7FuwHAw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -922,7 +922,7 @@ https://jrnick-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="NICK" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Nickelodeon" tvg-logo="",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"6bOgGfkWRxSfaT2p-TelOg","k":"rgiwDMsWGnv6GleV08h2Mg"},{"kty":"oct","kid":"C5wzPhGvSqGVWrH9sYfmXQ","k":"nghIQtAIOU9AvvBEgasQTA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"C5wzPhGvSqGVWrH9sYfmXQ","k":"nghIQtAIOU9AvvBEgasQTA"},{"kty":"oct","kid":"6bOgGfkWRxSfaT2p-TelOg","k":"rgiwDMsWGnv6GleV08h2Mg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -942,7 +942,7 @@ https://dreamworks-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="BOING" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Boing" tvg-logo="",Boing
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Zpq7dqzlTnCEMJT_j0gRhQ","k":"jT54TsVDqdtCxEYiheVN0Q"},{"kty":"oct","kid":"Hk2QMrsvSVuLLR760dVBZw","k":"-UGW1c17wTJOtW1sduXRgA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Hk2QMrsvSVuLLR760dVBZw","k":"-UGW1c17wTJOtW1sduXRgA"},{"kty":"oct","kid":"Zpq7dqzlTnCEMJT_j0gRhQ","k":"jT54TsVDqdtCxEYiheVN0Q"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -962,7 +962,7 @@ https://clan-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="MTV" tvg-logo="",MTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1ZJxFly0SpWUMgECdmcotQ","k":"UA1qNADW9ZtHT6ADm5mx5g"},{"kty":"oct","kid":"i0wnLSymRKmRkLm_glFsSg","k":"5uBmSgdD8Ng-1nSS0XjGYA"},{"kty":"oct","kid":"e-6wXOzfQV-VMnmxGKm-Zg","k":"UGML-iMj3e_TsoyEKs4_rQ"},{"kty":"oct","kid":"WE-CwOraRJ-vzbcaZSaDgA","k":"l0cR9bWTL1Ko2igK_B05YQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"e-6wXOzfQV-VMnmxGKm-Zg","k":"UGML-iMj3e_TsoyEKs4_rQ"},{"kty":"oct","kid":"i0wnLSymRKmRkLm_glFsSg","k":"5uBmSgdD8Ng-1nSS0XjGYA"},{"kty":"oct","kid":"1ZJxFly0SpWUMgECdmcotQ","k":"UA1qNADW9ZtHT6ADm5mx5g"},{"kty":"oct","kid":"WE-CwOraRJ-vzbcaZSaDgA","k":"l0cR9bWTL1Ko2igK_B05YQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -992,7 +992,7 @@ https://24horas-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="BBC" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="BBC News" tvg-logo="",BBC News
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jxkTsopxSAqvp-VFgHpHuA","k":"OO3y19vTZ9uGDJ3Ue1Li9g"},{"kty":"oct","kid":"-vAqKqC6SbS7UaYKaT6_dg","k":"sqx4P_SbJkcraWH3xnb2MA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"-vAqKqC6SbS7UaYKaT6_dg","k":"sqx4P_SbJkcraWH3xnb2MA"},{"kty":"oct","kid":"jxkTsopxSAqvp-VFgHpHuA","k":"OO3y19vTZ9uGDJ3Ue1Li9g"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1002,7 +1002,7 @@ https://worldbbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CNN" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="CNN Int" tvg-logo="",CNN Int
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qUdFwreyQIWOJvm2BfAQ2A","k":"QJRhkI2_qaRnedfgCGCxug"},{"kty":"oct","kid":"sQlSTC30RcedfJlRmVUcdQ","k":"UFz8IPs-LDhM5XSL3TLIjA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sQlSTC30RcedfJlRmVUcdQ","k":"UFz8IPs-LDhM5XSL3TLIjA"},{"kty":"oct","kid":"qUdFwreyQIWOJvm2BfAQ2A","k":"QJRhkI2_qaRnedfgCGCxug"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1022,7 +1022,7 @@ https://1euronews-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="ALJAZE" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Al Jazeera English" tvg-logo="",Al Jazeera English
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"f-WPRBwrSJem10iNkcTfjA","k":"JvQXCQ2CM61I2J1KG0pShQ"},{"kty":"oct","kid":"xK051STkT4WGsNEIzseeMA","k":"73oowHq9tTUsU4kSU0pMGw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xK051STkT4WGsNEIzseeMA","k":"73oowHq9tTUsU4kSU0pMGw"},{"kty":"oct","kid":"f-WPRBwrSJem10iNkcTfjA","k":"JvQXCQ2CM61I2J1KG0pShQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1062,7 +1062,7 @@ https://01cnbc-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="TV5" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="TV5MONDE" tvg-logo="",TV5MONDE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"2NA5TuaKTw-1UlFtjrrJuQ","k":"KlJUEjEGMJO-o3T7YWX1PQ"},{"kty":"oct","kid":"JBx7gTbNSkOq7T_i3Fm9rQ","k":"pQo8CyE7FQ_GyfydHJYdjQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"JBx7gTbNSkOq7T_i3Fm9rQ","k":"pQo8CyE7FQ_GyfydHJYdjQ"},{"kty":"oct","kid":"2NA5TuaKTw-1UlFtjrrJuQ","k":"KlJUEjEGMJO-o3T7YWX1PQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1092,7 +1092,7 @@ https://eltorotv-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="NEGOTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="Negocios TV" tvg-logo="",Negocios TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"oyO-fOUVRzOC5saoIxLxyw","k":"nz9P8t0j5HJkLRtNa7XT0g"},{"kty":"oct","kid":"cUKc7bX6RlKIWEGnGeUbSw","k":"cxBDNkzNT1O6-Ch2oOKkuA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"cUKc7bX6RlKIWEGnGeUbSw","k":"cxBDNkzNT1O6-Ch2oOKkuA"},{"kty":"oct","kid":"oyO-fOUVRzOC5saoIxLxyw","k":"nz9P8t0j5HJkLRtNa7XT0g"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1102,7 +1102,7 @@ https://negociostv-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CCTV-E" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="CGTN Español" tvg-logo="",CGTN Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"y1_4jm8sRDG1n21Czgi7KA","k":"LCaucCM_-FTNsmTw5S2SIQ"},{"kty":"oct","kid":"L9D60X0XRDeaBelJY0QHbA","k":"YpJEaj60syA3fiaCDt5Nmg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"L9D60X0XRDeaBelJY0QHbA","k":"YpJEaj60syA3fiaCDt5Nmg"},{"kty":"oct","kid":"y1_4jm8sRDG1n21Czgi7KA","k":"LCaucCM_-FTNsmTw5S2SIQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1112,7 +1112,7 @@ https://cgtn-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="UCL" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="UCL" tvg-logo="",UCL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fF3Z6_PvSj-OkaQMJTuZIQ","k":"O2rMDGVgUGEtT4zzCuNGvg"},{"kty":"oct","kid":"Q1rwRVUqT_Ss1nv0MayOyg","k":"rlE9zheLXFFAX6HI619WmQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Q1rwRVUqT_Ss1nv0MayOyg","k":"rlE9zheLXFFAX6HI619WmQ"},{"kty":"oct","kid":"fF3Z6_PvSj-OkaQMJTuZIQ","k":"O2rMDGVgUGEtT4zzCuNGvg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1142,7 +1142,7 @@ https://csur-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="TVG" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="TVG Europa" tvg-logo="",TVG Europa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CPv3JuwJS6qNAP_WgK-NzQ","k":"_Ma8ACCBfx5oQQPwExUTzg"},{"kty":"oct","kid":"9XXoRw-_Q8G2Dtakg-XroA","k":"qtxkdtEyzYSdUAZVB6GMFg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"9XXoRw-_Q8G2Dtakg-XroA","k":"qtxkdtEyzYSdUAZVB6GMFg"},{"kty":"oct","kid":"CPv3JuwJS6qNAP_WgK-NzQ","k":"_Ma8ACCBfx5oQQPwExUTzg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1192,7 +1192,7 @@ https://inttelemadrid-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="ETB3" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="etb1ON" tvg-logo="",etb1ON
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"1d4_5yeSTweuIJccgYhH7g","k":"7rbnPbJEM9xGIarwvemCAA"},{"kty":"oct","kid":"s_vPyMnCRzuSrbfv9okx8Q","k":"lkVKH_cQsaTFt7-Vr1El-g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"s_vPyMnCRzuSrbfv9okx8Q","k":"lkVKH_cQsaTFt7-Vr1El-g"},{"kty":"oct","kid":"1d4_5yeSTweuIJccgYhH7g","k":"7rbnPbJEM9xGIarwvemCAA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1212,7 +1212,7 @@ https://etb2onsat-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MLIG2" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ LALIGA 3" tvg-logo="",M+ LALIGA 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hMUfGt4uTUmCVjmRTYNmIg","k":"fwhro02v4j4gUdWEEaFy2g"},{"kty":"oct","kid":"yIau6_1eQPCI5pbPcaCGqA","k":"T_GN7gQFjwFaGM0gAvcLDQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yIau6_1eQPCI5pbPcaCGqA","k":"T_GN7gQFjwFaGM0gAvcLDQ"},{"kty":"oct","kid":"hMUfGt4uTUmCVjmRTYNmIg","k":"fwhro02v4j4gUdWEEaFy2g"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1242,7 +1242,7 @@ https://3segdiv-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CHAP3" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Liga de Campeones  4" tvg-logo="",M+ Liga de Campeones  4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P5RKVQTZRBCzGlCiQD6_1g","k":"ozfXIHQ6T8d6zk8s6JYYmw"},{"kty":"oct","kid":"IkgtcJGrT2Oyil-gzO3IZA","k":"m8VhgnpGYnu37Q2uQpLSdg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"IkgtcJGrT2Oyil-gzO3IZA","k":"m8VhgnpGYnu37Q2uQpLSdg"},{"kty":"oct","kid":"P5RKVQTZRBCzGlCiQD6_1g","k":"ozfXIHQ6T8d6zk8s6JYYmw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1252,7 +1252,7 @@ https://04campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CHAP4" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Liga de Campeones 5" tvg-logo="",M+ Liga de Campeones 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mKFNW9R8QsaYhLp45Jr-ow","k":"zXzy9BPaz1LYCdLfZk2zOA"},{"kty":"oct","kid":"igafKnmYR_-XaZHjqwpc9g","k":"9dupOlW1DDE73NSNk9HWbQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"igafKnmYR_-XaZHjqwpc9g","k":"9dupOlW1DDE73NSNk9HWbQ"},{"kty":"oct","kid":"mKFNW9R8QsaYhLp45Jr-ow","k":"zXzy9BPaz1LYCdLfZk2zOA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1292,7 +1292,7 @@ https://08campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CHAP8" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Liga de Campeones 9" tvg-logo="",M+ Liga de Campeones 9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yPoSkgIZSdeAhLBO-Tq8IA","k":"_cRfxD0MG09d9vPkt1Tt7A"},{"kty":"oct","kid":"lCmSDkz1TJus2JwAxkERdQ","k":"COfufXwazDiLWIdVSpsEfA"},{"kty":"oct","kid":"V-lTKAUnR52WbTOEvCxn5Q","k":"1ks1dbOOlcGG2kmhblcQ5g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yPoSkgIZSdeAhLBO-Tq8IA","k":"_cRfxD0MG09d9vPkt1Tt7A"},{"kty":"oct","kid":"V-lTKAUnR52WbTOEvCxn5Q","k":"1ks1dbOOlcGG2kmhblcQ5g"},{"kty":"oct","kid":"lCmSDkz1TJus2JwAxkERdQ","k":"COfufXwazDiLWIdVSpsEfA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1302,7 +1302,7 @@ https://09campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CHAP9" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Liga de Campeones 10" tvg-logo="",M+ Liga de Campeones 10
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"En7owOkEQ6ydXLkp531TLQ","k":"TiA_xtwNFe0r1-_g9ZE5-g"},{"kty":"oct","kid":"U1BGjYu0RMCRYPFrP_2KKw","k":"GffZmpq3hkt3JGdkWZQxTA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"U1BGjYu0RMCRYPFrP_2KKw","k":"GffZmpq3hkt3JGdkWZQxTA"},{"kty":"oct","kid":"En7owOkEQ6ydXLkp531TLQ","k":"TiA_xtwNFe0r1-_g9ZE5-g"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1312,7 +1312,7 @@ https://10campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CHAP10" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Liga de Campeones 11" tvg-logo="",M+ Liga de Campeones 11
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"lKZ0W2uPReajMr1Ly1Ez1A","k":"XdiDFObMx962mYZ3yUbDPQ"},{"kty":"oct","kid":"KWCAlhTuQT6J7C4X2M4T_g","k":"q17qGoGdfmMqbA3PU71wpQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KWCAlhTuQT6J7C4X2M4T_g","k":"q17qGoGdfmMqbA3PU71wpQ"},{"kty":"oct","kid":"lKZ0W2uPReajMr1Ly1Ez1A","k":"XdiDFObMx962mYZ3yUbDPQ"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1332,7 +1332,7 @@ https://12campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="CHAP12" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Liga de Campeones 13" tvg-logo="",M+ Liga de Campeones 13
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"jgwXOvadT5a-4GNQbY5wPw","k":"jEwfvC4MgwYzdvJ-rGBZZg"},{"kty":"oct","kid":"BCh-8w9vSeq0iYQ_3X7qsw","k":"JAknUE4oe1cLkalHaZecEw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BCh-8w9vSeq0iYQ_3X7qsw","k":"JAknUE4oe1cLkalHaZecEw"},{"kty":"oct","kid":"jgwXOvadT5a-4GNQbY5wPw","k":"jEwfvC4MgwYzdvJ-rGBZZg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1342,7 +1342,7 @@ https://13campeones-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="USOP3" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Deportes 4" tvg-logo="",M+ Deportes 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"DOGwAPeSS7C57YgWjWFDTg","k":"8GDzla_ZifpG8K3JQyWA0Q"},{"kty":"oct","kid":"ki985VqFQT-EK2-pxBZdKQ","k":"CF9H4UGcCq5hddQEsBtyfw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ki985VqFQT-EK2-pxBZdKQ","k":"CF9H4UGcCq5hddQEsBtyfw"},{"kty":"oct","kid":"DOGwAPeSS7C57YgWjWFDTg","k":"8GDzla_ZifpG8K3JQyWA0Q"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1352,7 +1352,7 @@ https://4multidep-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="USOP11" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Deportes 5" tvg-logo="",M+ Deportes 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"q785oFjeRK6dmQlLrWMesg","k":"KmDk5Sk6eBwIz_RZer0LvA"},{"kty":"oct","kid":"MMXOBPAIQkmSzMdy3zgV8g","k":"OTf1hXB-KgRT9rnx6c41jg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MMXOBPAIQkmSzMdy3zgV8g","k":"OTf1hXB-KgRT9rnx6c41jg"},{"kty":"oct","kid":"q785oFjeRK6dmQlLrWMesg","k":"KmDk5Sk6eBwIz_RZer0LvA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1382,7 +1382,7 @@ https://3mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MBALC4" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Baloncesto 4" tvg-logo="",M+ Baloncesto 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"xZu0WDvgT6SQackGV01zXA","k":"jJbGCPaXiEhihlEO7IAJFw"},{"kty":"oct","kid":"TPd1iIGzRtyhkvGLzl-O4g","k":"UYth_qIOP5roCnQsx_62mg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TPd1iIGzRtyhkvGLzl-O4g","k":"UYth_qIOP5roCnQsx_62mg"},{"kty":"oct","kid":"xZu0WDvgT6SQackGV01zXA","k":"jJbGCPaXiEhihlEO7IAJFw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1392,7 +1392,7 @@ https://4mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="MBALC5" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="M+ Baloncesto 5" tvg-logo="",M+ Baloncesto 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"KSZ6JiOyQ0adH70l18ylvw","k":"krFnxbGlo-G7aWnQB6opJA"},{"kty":"oct","kid":"qPVegN-fSx-C5_HgyN15cg","k":"bpmN-bdnrFj8INHYZA01gg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qPVegN-fSx-C5_HgyN15cg","k":"bpmN-bdnrFj8INHYZA01gg"},{"kty":"oct","kid":"KSZ6JiOyQ0adH70l18ylvw","k":"krFnxbGlo-G7aWnQB6opJA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1402,7 +1402,7 @@ https://5mbasket-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="DAZN3" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN 3" tvg-logo="",DAZN 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"TFxqs06MRE6mcUQMnJZYlA","k":"CdfobARZ3tqMwFtlJpzhgw"},{"kty":"oct","kid":"LoOyIA9wS2-s_4modQpdjQ","k":"8GoAfwm8teeexsPgK4Lz7g"},{"kty":"oct","kid":"pOX1K3BSTs6fZh495lv87A","k":"RnR-ET0OBozP3_NQOOVPaA"},{"kty":"oct","kid":"cuCMrFxgSjuwHZeexSxFLQ","k":"SQ4xZy_Y8RdZxm6Sea2y9A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LoOyIA9wS2-s_4modQpdjQ","k":"8GoAfwm8teeexsPgK4Lz7g"},{"kty":"oct","kid":"cuCMrFxgSjuwHZeexSxFLQ","k":"SQ4xZy_Y8RdZxm6Sea2y9A"},{"kty":"oct","kid":"pOX1K3BSTs6fZh495lv87A","k":"RnR-ET0OBozP3_NQOOVPaA"},{"kty":"oct","kid":"TFxqs06MRE6mcUQMnJZYlA","k":"CdfobARZ3tqMwFtlJpzhgw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
@@ -1412,7 +1412,7 @@ https://dazn3-dash-movistarplus.emisiondof6.com/manifest.mpd
 #EXTINF:-1 tvg-id="DAZN4" group-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar+" tvg-name="DAZN 4" tvg-logo="",DAZN 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_pDqIVrpTU6kzR3LWzX9_g","k":"AoDB2PROnwV337myMKmPZA"},{"kty":"oct","kid":"xZ9H-KpTQYSSrLfNzl0fPQ","k":"tv1mJ7wmFu9eb-t3-eERCA"},{"kty":"oct","kid":"4EmcYi9ZSQmnXzcj7scyIQ","k":"0n8QdZWSt3IMoRkhaE9WkQ"},{"kty":"oct","kid":"p_Fz6cadS-OA4jKi9yZOrQ","k":"LD7PjQev8UFz0A3fmSvUpg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"_pDqIVrpTU6kzR3LWzX9_g","k":"AoDB2PROnwV337myMKmPZA"},{"kty":"oct","kid":"4EmcYi9ZSQmnXzcj7scyIQ","k":"0n8QdZWSt3IMoRkhaE9WkQ"},{"kty":"oct","kid":"xZ9H-KpTQYSSrLfNzl0fPQ","k":"tv1mJ7wmFu9eb-t3-eERCA"},{"kty":"oct","kid":"p_Fz6cadS-OA4jKi9yZOrQ","k":"LD7PjQev8UFz0A3fmSvUpg"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIn0.eyJpYXQiOjE3OTI4NDE5NTAsInN1YiI6IktQR0pSZUVWWE83QWdTK01RenVJUlE9PSIsImlkcCI6Im1vdmlzdGFyKyIsImF1dGhfdGltZSI6MTc5Mjg0MTk1MCwibmJmIjoxNzkyODQxOTUwLCJleHAiOjE3OTI4ODUxNTAsImlzcyI6Imh0dHBzOi8vc290ZXItcGYuc3ZlLnZpZGVvLnRlbGVmb25pY2FzZXJ2aWNlcy5jb20vc2VydmljZS90Y2RuaWRzZXJ2ZXIiLCJzY29wZSI6ImNkbiIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJqdGkiOiI1M0RGMDY4MTQxRTJDMzVDNUIxNDM1NDQ3RTlCQjk4RSIsInVpZCI6IlNHVWxGOVZKV3RQdFBuU0VOa3RTSUIybU05Y0d4UjFhTVJDVTNNaHFIMzg9IiwiYWNjIjoidXdFaUlVZEtDRGlzclJiUDRUZDJHb21iTUlPUHFyNkViNWxIaWc0WFJhaz0iLCJzIjoiMSIsImNocCI6dHJ1ZX0.Go7Y2V8S-UBji6_AZYtvYJK01u5Ff1ku5vhuoWTAnZzNij6SSiYhmlw4CUNXMJ90HSugxSqWdUA-id6rb7mFEg
 #EXTVLCOPT:http-origin=https://ver.movistar.es
 #EXTVLCOPT:http-referer=https://ver.movistarplus.es/canales/
